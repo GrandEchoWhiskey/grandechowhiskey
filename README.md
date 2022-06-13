@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Eric from Poland.
 #### I'm currently working on a game very simmilar to zelda, that's because I'm a CS50 student, currently taking the CS50 Game Development course.
+
 #### I've worked on many projects such as:
   - ##### Degrees         -> Program that determines how many "degrees of separation" apart two actors are. Hopping over the movies each node actor played.
   - ##### Tic-Tac-Toe     -> Game with implemented Minimax algorythm, so that the AI will always play the optimally move.
@@ -25,9 +26,9 @@ Here are some ideas to get you started:
   - ##### Crossword       -> Generating crosswords AI
   - ##### Traffic         -> AI that identifies traffic signs from photographs. Acc:96%, Loss:0.21, 10 epochs, 500img/epoch
   - ##### Questions       -> AI to answer questions from included books.
-  - ##### Interactive CV  -> A programm to merge a pdf file with a video file. In that way It's possible to make the cover letter a video of yourself speaking to the camera. 
-> [!TIP]
+  - ##### Interactive CV  -> A programm to merge a pdf file with a video file. In that way It's possible to make the cover letter a video of yourself speaking to the camera.
 > Remember. The words only affect 7% the content of your message. 38% of understanding is accounted for by tone of voice and 55% by body language.
+#
 #### I've finished 2 courses from CS50:
   - ##### Introduction to Computer Science
   - ##### Introduction to Artificial Intelligence with Python
