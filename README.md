@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Eric from Poland.
 #### I'm currently working on a game very simmilar to zelda, that's because I'm a CS50 student, and currently I'm on the CS50 Game Development course.
-#### I've finished 2 courses from CS50, one of them is the basic - CS50's Introduction to Computer Science, the other one is an addition to the first one. It's about AI with Python - CS50's Introduction to Artificial Intelligence with Python.
+#### I've finished 2 courses from CS50:
+  - ##### CS50's Introduction to Computer Science
+  - ##### CS50's Introduction to Artificial Intelligence with Python
