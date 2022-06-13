@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Eric from Poland.
 #### I'm currently working on a game very simmilar to zelda, that's because I'm a CS50 student, and currently I'm on the CS50 Game Development course.
-!(https://grandechowhiskey.github.io/images/wsbwro.jpg)
+![WSB Wrocław](https://grandechowhiskey.github.io/images/wsbwro.jpg)
