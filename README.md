@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi, I'm Eric from Poland.
+### Hi, I'm Eric.
 #### I'm currently working on a game very simmilar to zelda, that's because I'm a CS50 student, currently taking the CS50 Game Development course.
