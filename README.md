@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Eric.
 #### I'm currently working on a game very simmilar to zelda; on my portfolio website, and some of my python scripts.
-> Why so much work at once? Because It is good for the brain to change sometimes.
+> Why so much work at once? Lua and C# isn't required as much as a good portfolio right now. 😄
 
 ---
 
