@@ -2,6 +2,12 @@
 #### I'm currently working on a game very simmilar to zelda; on my portfolio website, and some of my python scripts.
 > Why so much work at once? Lua and C# isn't required as much as a good portfolio right now. 😄
 
+About me:
+- 👨‍💻 Taking course CS50's Introduction to Game Development.
+- 👨‍🔬 Working on a Python programm that predicts a childs bloodtype.
+- 👨‍🎓 Learning Cybersecurity at WSB in Wrocław, Poland.
+
+
 ---
 
 ## Projects
