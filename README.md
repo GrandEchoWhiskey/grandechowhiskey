@@ -1,4 +1,4 @@
-# Hi, I'm Eric.
+# 👋 Hi, I'm Eric.
 
 I'm currently:
 - 👨‍💻 Taking course CS50's Introduction to Game Development.
@@ -8,7 +8,7 @@ I'm currently:
 
 ---
 
-## Projects
+## 💻 Projects
 |  | Name |  | Short Description | Technology
 | :---: | :--- | :---: | :--- | :---:
 :heavy_check_mark: | [cs50-ai-packed][cs50-ai-packed_link] | :label: | CS50's Introduction to Artificial Intelligence with Python | Python
