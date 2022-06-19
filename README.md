@@ -11,21 +11,18 @@ I'm currently:
 ## Projects
 Name | Short Description | Technology
 :--- | :--- | :---
-:heavy_check_mark: [cs50-ai-packed][cs50-ai-packed_link] * | CS50's Introduction to Artificial Intelligence with Python | Python
-:heavy_check_mark: [cs50-x-packed][cs50-x-packed_link] * | CS50's Introduction to Computing Science | C : Python : HTML
-:heavy_check_mark: [fcc-scicomp-packed][fcc-scicomp-packed_link] * | freeCodeCamp's Scientific Computing with Python | Python
+:heavy_check_mark: [cs50-ai-packed][cs50-ai-packed_link] :label: | CS50's Introduction to Artificial Intelligence with Python | Python
+:heavy_check_mark: [cs50-x-packed][cs50-x-packed_link] :label: | CS50's Introduction to Computing Science | C : Python : HTML
+:heavy_check_mark: [fcc-scicomp-packed][fcc-scicomp-packed_link] :label: | freeCodeCamp's Scientific Computing with Python | Python
 :heavy_check_mark: [my-icv][my-icv_link] | Interactive CV/Resume `Done for CS50x Final Project` | C++ : QT
 :heavy_check_mark: [my-cs50utils][my-cs50utils_link] | Makes repeating tasks in CS50 courses easier | Python : HTML
 :heavy_minus_sign: [portfolio][portfolio_link] | My Portfolio website [link][portfolio_web_link] | JavaScript : HTML : CSS
-:heavy_minus_sign: [cs50-g-packed][cs50-g-packed_link] * | CS50’s Introduction to Game Development | Lua : C# : Unity
+:heavy_minus_sign: [cs50-g-packed][cs50-g-packed_link] :label: | CS50’s Introduction to Game Development | Lua : C# : Unity
 
-\* Repository contains more than one project.
-
-Sign | Description
-:--- | :---
-:heavy_check_mark: | Means that the project is already done.
-:heavy_minus_sign: | Means that the project is in progress.
-:exclamation: | Means that the project was aborted.
+- :label: - Repository contains more than one project.
+- :heavy_check_mark: - The project is already done.
+- :heavy_minus_sign: - The project is in progress.
+- :exclamation: - The project was aborted.
 
 <!-- CS50 links -->
 [cs50-ai-packed_link]: https://github.com/GrandEchoWhiskey/cs50-ai-packed
