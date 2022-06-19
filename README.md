@@ -14,6 +14,7 @@ I'm currently:
 :heavy_check_mark: | [cs50-ai-packed][cs50-ai-packed_link] | :label: | CS50's Introduction to Artificial Intelligence with Python | Python
 :heavy_check_mark: | [fcc-scicomp-packed][fcc-scicomp-packed_link] | :label: | freeCodeCamp's Scientific Computing with Python | Python
 :heavy_check_mark: | [cs50-x-packed][cs50-x-packed_link] | :label: | CS50's Introduction to Computing Science | C : Python : HTML
+:clock8: | [fcc-infosec-packed][fcc-infosec-packed_link] | :label: | freeCodeCamp's Information Security | Node.js
 :clock8: | [cs50-g-packed][cs50-g-packed_link] | :label: | CS50’s Introduction to Game Development | Lua : C# : Unity
 :heavy_check_mark: | [my-icv][my-icv_link] |  | Interactive CV/Resume `Done for CS50x Final Project` | C++ : QT
 :heavy_check_mark: | [my-cs50utils][my-cs50utils_link] |  | Makes repeating tasks in CS50 courses easier | Python : HTML
@@ -31,6 +32,7 @@ I'm currently:
 
 <!-- freeCodeCamp links -->
 [fcc-scicomp-packed_link]: https://github.com/GrandEchoWhiskey/fcc-scicomp-packed
+[fcc-infosec-packed_link]: https://github.com/GrandEchoWhiskey/fcc-infosec-packed
 
 <!-- my links -->
 [my-icv_link]: https://github.com/GrandEchoWhiskey/my-icv
