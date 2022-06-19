@@ -21,6 +21,12 @@ Name | Short Description | Technology
 
 \* Repository contains more than one project.
 
+Sign | Description
+:--- | :---
+:heavy_check_mark: | Means that the project is already done.
+:heavy_minus_sign: | Means that the project is in progress.
+:heavy_multiplication_x: | Means that the project was aborted.
+
 <!-- CS50 links -->
 [cs50-ai-packed_link]: https://github.com/GrandEchoWhiskey/cs50-ai-packed
 [cs50-x-packed_link]: https://github.com/GrandEchoWhiskey/cs50-x-packed
