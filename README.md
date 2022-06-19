@@ -9,7 +9,7 @@ I'm currently:
 ---
 
 ## Projects
-Name | Short Description | Technologies
+Name | Short Description | Technology
 :--- | :--- | :---
 :heavy_check_mark: [cs50-ai-packed][cs50-ai-packed_link] * | CS50's Introduction to Artificial Intelligence with Python | Python : Scikit-learn : Tensorflow
 :heavy_check_mark: [cs50-x-packed][cs50-x-packed_link] * | CS50's Introduction to Computing Science | C : Python : HTML : SQL
