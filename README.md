@@ -1,4 +1,5 @@
 [![][portfolio_shield]][portfolio_web_link]
+[![][cert_img]][cert_link]
 
 
 # 👋 Hi, I'm Eric.
@@ -41,4 +42,8 @@ I'm currently:
 [my-cs50utils_link]: https://github.com/GrandEchoWhiskey/my-cs50utils
 [portfolio_link]: https://github.com/GrandEchoWhiskey/grandechowhiskey.github.io
 [portfolio_web_link]: https://grandechowhiskey.github.io
-[portfolio_shield]: https://img.shields.io/website?style=flat-square&down_color=red&down_message=offline&label=Portfolio&up_color=green&up_message=online&url=https%3A%2F%2Fgrandechowhiskey.github.io
+
+<!-- shields -->
+[portfolio_shield]: https://img.shields.io/website?style=flat-square&down_color=red&down_message=offline&label=portfolio&up_color=green&up_message=online&url=https%3A%2F%2Fgrandechowhiskey.github.io
+[cert_img]: https://img.shields.io/badge/certificates-_3_-darkgreen?style=flat-square
+[cert_link]: #
