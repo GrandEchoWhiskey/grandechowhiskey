@@ -1,4 +1,4 @@
-[![](https://img.shields.io/website?down_color=red&down_message=offline&label=Portfolio&up_color=green&up_message=online&url=https%3A%2F%2Fgrandechowhiskey.github.io)][portfolio_web_link]
+[![](https://img.shields.io/website?style=flat-square&down_color=red&down_message=offline&label=Portfolio&up_color=green&up_message=online&url=https%3A%2F%2Fgrandechowhiskey.github.io)][portfolio_web_link]
 
 
 # 👋 Hi, I'm Eric.
