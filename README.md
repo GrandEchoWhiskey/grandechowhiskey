@@ -91,7 +91,7 @@
 [sql_img]: https://img.icons8.com/external-soft-fill-juicy-fish/25/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png
 [nodejs_img]: https://img.icons8.com/fluency/25/node-js.png
 [csharp_img]: https://img.icons8.com/color/25/000000/c-sharp-logo.png
-[lua_img]: https://img.icons8.com/external-others-iconmarket/25/7950F2/external-lua-file-types-others-iconmarket-2.png
+[lua_img]: https://img.icons8.com/external-tal-revivo-color-tal-revivo/25/000000/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-color-tal-revivo.png
 [unity_img]: https://img.icons8.com/color/25/000000/unity.png
 
 <!-- Tools & SWs -->
