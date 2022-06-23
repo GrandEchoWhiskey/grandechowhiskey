@@ -50,9 +50,9 @@
 |  | Name |  | Short Description | Language & Framework |  |
 | :---: | :--- | :---: | :--- | :---: | :---: |
 :heavy_check_mark: | [cs50-ai-packed][cs50-ai-packed_link] | :file_folder: | CS50's Introduction to Artificial Intelligence with Python | [![Python][py_img] ![Tensorflow][tf_img]](#) | [![CS50][harvard_25_img]](#)
-:heavy_check_mark: | [fcc-scicomp-packed][fcc-scicomp-packed_link] | :file_folder: | freeCodeCamp's Scientific Computing with Python | [![Python][py_img]](#)
+:heavy_check_mark: | [fcc-scicomp-packed][fcc-scicomp-packed_link] | :file_folder: | freeCodeCamp's Scientific Computing with Python | [![Python][py_img]](#) | [![fCC][fcc_25_img]](#)
 :heavy_check_mark: | [cs50-x-packed][cs50-x-packed_link] | :file_folder: | CS50's Introduction to Computing Science | [![C][c_img] ![Python][py_img] ![HTML][html_img] ![SQL][sql_img]](#) | [![CS50][harvard_25_img]](#)
-:clock8: | [fcc-infosec-packed][fcc-infosec-packed_link] | :file_folder: | freeCodeCamp's Information Security | [![JavaScript][js_img] ![Node.js][nodejs_img]](#)
+:clock8: | [fcc-infosec-packed][fcc-infosec-packed_link] | :file_folder: | freeCodeCamp's Information Security | [![JavaScript][js_img] ![Node.js][nodejs_img]](#) | [![fCC][fcc_25_img]](#)
 :clock8: | [cs50-g-packed][cs50-g-packed_link] | :file_folder: | CS50’s Introduction to Game Development | [![Lua][lua_img] ![C#][csharp_img] ![Unity][unity_img]](#) | [![CS50][harvard_25_img]](#)
 :heavy_check_mark: | [my-icv][my-icv_link] |  | Interactive CV/Resume `Done for CS50x Final Project` | [![C++][cpp_img] ![Qt][qt_img]](#)
 :heavy_check_mark: | [my-cs50utils][my-cs50utils_link] |  | Makes repeating tasks in CS50 courses easier | [![Python][py_img] ![HTML][html_img]](#)
@@ -110,3 +110,4 @@
 
 <!-- Courses -->
 [harvard_25_img]: https://github.com/GrandEchoWhiskey/.github/blob/main/images/harvard25.png
+[fcc_25_img]: https://github.com/GrandEchoWhiskey/.github/blob/main/images/fcc25.png
