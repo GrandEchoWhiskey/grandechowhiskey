@@ -11,7 +11,7 @@
 
 Programming Languages & Frameworks |  Tools & SWs | Operating Systems & Distributions
 :---: | :---: | :---:
-[![Python][py_img]![C][c_img]![C++][cpp_img]![C#][csharp_img]![JavaScript][js_img]![Lua][lua_img]![TensorFlow][tf_img]![Qt][qt_img]![Unity][unity_img]![HTML5][html_img]![CSS3][css_img]![Bootstrap][bs_img]![SQL][sql_img]![Love][love_img]](#) | [![Visual Studio][vs_img]![VSCode][vsc_img]![PyCharm][pyc_img]![Console][cons_img]![CMD][cmd_img]![VirtualBox][virbox_img]](#) | [![Windows][win_img]![Linux][lin_img]![Ubuntu][ubuntu_img]![Kali Linux][kali_img]](#)
+[![Python][py_img]![C][c_img]![C++][cpp_img]![C#][csharp_img]![JavaScript][js_img]![Lua][lua_img]![TensorFlow][tf_img]![Qt][qt_img]![Unity][unity_img]![.NET][dotnet_img]![HTML5][html_img]![CSS3][css_img]![Bootstrap][bs_img]![SQL][sql_img]![Love][love_img]](#) | [![Visual Studio][vs_img]![VSCode][vsc_img]![PyCharm][pyc_img]![Console][cons_img]![CMD][cmd_img]![VirtualBox][virbox_img]](#) | [![Windows][win_img]![Linux][lin_img]![Ubuntu][ubuntu_img]![Kali Linux][kali_img]](#)
 
 ---
 
@@ -65,6 +65,7 @@ Programming Languages & Frameworks |  Tools & SWs | Operating Systems & Distribu
 [lua_img]:                    https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/lua.png
 [unity_img]:                  https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/unity.png
 [love_img]:                   https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/love.png
+[dotnet_img]:                   https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/dotnet.png
 
 <!-- Tools & SWs -->
 [vs_img]:                     https://github.com/GrandEchoWhiskey/.github/blob/main/images/tools/vsstudio.png
