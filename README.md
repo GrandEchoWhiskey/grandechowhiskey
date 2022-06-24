@@ -23,6 +23,7 @@
 ![Bootstrap][bs_img]
 ![SQL][sql_img]
 ![Lua][lua_img]
+![Unity][unity_img]
 ](#)
 
 #### Tools & SWs
@@ -33,7 +34,6 @@
 ![Console][cons_img]
 ![CMD][cmd_img]
 ![VirtualBox][virbox_img]
-![Unity][unity_img]
 ](#)
 
 #### Operating Systems & Distributions
@@ -94,6 +94,7 @@
 [nodejs_img]:    https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/nodejs.png
 [csharp_img]:    https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/csharp.png
 [lua_img]:       https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/lua.png
+[unity_img]:     https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/unity.png
 
 <!-- Tools & SWs -->
 [vs_img]:        https://github.com/GrandEchoWhiskey/.github/blob/main/images/tools/vsstudio.png
@@ -102,7 +103,6 @@
 [cons_img]:      https://github.com/GrandEchoWhiskey/.github/blob/main/images/tools/bash.png
 [cmd_img]:       https://github.com/GrandEchoWhiskey/.github/blob/main/images/tools/cmd.png
 [virbox_img]:    https://github.com/GrandEchoWhiskey/.github/blob/main/images/tools/vbox.png
-[unity_img]:     https://github.com/GrandEchoWhiskey/.github/blob/main/images/tools/unity.png
 
 <!-- Operating Systems & Distributions -->
 [win_img]:       https://img.icons8.com/color/25/windows-10.png
