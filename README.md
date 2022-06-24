@@ -12,18 +12,19 @@
 #### Programming Languages & Frameworks
 [
 ![Python][py_img]
-![TensorFlow][tf_img]
 ![C][c_img]
 ![C++][cpp_img]
 ![C#][csharp_img]
+![JavaScript][js_img]
+![Lua][lua_img]
+![TensorFlow][tf_img]
 ![Qt][qt_img]
 ![Unity][unity_img]
 ![HTML5][html_img]
 ![CSS3][css_img]
-![JavaScript][js_img]
 ![Bootstrap][bs_img]
 ![SQL][sql_img]
-![Lua][lua_img]
+![Love][love_img]
 ](#)
 
 #### Tools & SWs
@@ -95,6 +96,7 @@
 [csharp_img]:                 https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/csharp.png
 [lua_img]:                    https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/lua.png
 [unity_img]:                  https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/unity.png
+[love_img]:                   https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/love.png
 
 <!-- Tools & SWs -->
 [vs_img]:                     https://github.com/GrandEchoWhiskey/.github/blob/main/images/tools/vsstudio.png
