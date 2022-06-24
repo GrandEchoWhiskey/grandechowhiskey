@@ -75,7 +75,7 @@
 
 <!-- shields -->
 [portfolio_shield]: https://img.shields.io/website?style=flat-square&down_color=red&down_message=Offline&label=Portfolio&up_color=green&up_message=Online&url=https%3A%2F%2Fgrandechowhiskey.github.io
-[cert_shield]: https://img.shields.io/badge/Certificates-_3_-darkgreen?style=flat-square
+[cert_shield]: https://img.shields.io/badge/Certificates-%203%20-darkgreen?style=flat-square
 [cert_link]: #
 [status_shield]: https://img.shields.io/badge/Position-Junior_Developer-blue?style=flat-square
 [status_link]: #
