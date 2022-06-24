@@ -111,5 +111,5 @@
 [kali_img]: https://img.icons8.com/color/25/kali-linux.png
 
 <!-- Courses -->
-[harvard_25_img]: https://github.com/GrandEchoWhiskey/.github/blob/main/images/harvard25.png
-[fcc_25_img]: https://github.com/GrandEchoWhiskey/.github/blob/main/images/fcc25.png
+[harvard_25_img]: https://github.com/GrandEchoWhiskey/.github/blob/main/images/course/harvard25.png
+[fcc_25_img]: https://github.com/GrandEchoWhiskey/.github/blob/main/images/course/fcc25.png
