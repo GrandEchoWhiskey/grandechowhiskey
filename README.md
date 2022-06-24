@@ -1,6 +1,6 @@
 [![][portfolio_shield]][portfolio_web_link]
-[![][cert_img]][cert_link]
-
+[![][status_shield]][status_link]
+[![][cert_shield]][cert_link]
 
 # 👋 Hi, I'm Eric.
 
@@ -74,9 +74,11 @@
 [portfolio_web_link]: https://grandechowhiskey.github.io
 
 <!-- shields -->
-[portfolio_shield]: https://img.shields.io/website?style=flat-square&down_color=red&down_message=offline&label=portfolio&up_color=green&up_message=online&url=https%3A%2F%2Fgrandechowhiskey.github.io
-[cert_img]: https://img.shields.io/badge/certificates-_3_-darkgreen?style=flat-square
+[portfolio_shield]: https://img.shields.io/website?style=flat-square&down_color=red&down_message=Offline&label=Portfolio&up_color=green&up_message=Online&url=https%3A%2F%2Fgrandechowhiskey.github.io
+[cert_shield]: https://img.shields.io/badge/Certificates-_3_-darkgreen?style=flat-square
 [cert_link]: #
+[status_shield]: https://img.shields.io/badge/Position-Junior_Developer-blue?style=flat-square
+[status_link]: #
 
 <!-- Programming Languages & Frameworks -->
 [py_img]: https://img.icons8.com/color/25/python--v1.png
