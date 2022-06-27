@@ -28,7 +28,7 @@ Programming Languages & Frameworks |  Tools & SWs | Operating Systems & Distribu
 :clock8: | [portfolio][portfolio_link] |  | My Portfolio website [link][portfolio_web_link] | [![HTML][html_img]![CSS][css_img]![BootStrap][bs_img]![JavaScript][js_img]](#) | :bust_in_silhouette:
 
 <!-- CS50 links -->
-[cs50-ai-packed_link]:        https://github.com/GrandEchoWhiskey/cs50-ai-packed
+[cs50-ai-packed_link]:        https://github.com/GrandEchoWhiskey/course-dictionary/blob/main/CS50-HarvardX/CS50AI/README.md
 [cs50-x-packed_link]:         https://github.com/GrandEchoWhiskey/cs50-x-packed
 [cs50-g-packed_link]:         https://github.com/GrandEchoWhiskey/cs50-g-packed
 
