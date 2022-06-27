@@ -18,8 +18,8 @@ Programming Languages & Frameworks |  Tools & SWs | Operating Systems & Distribu
 ## 💻 Projects
 |  | Name |  | Short Description | Language & Framework |  |
 | :---: | :--- | :---: | :--- | :---: | :---: |
-:heavy_check_mark: | [CS50AI][cs50-ai-packed_link] | :file_folder: | CS50's Introduction to Artificial Intelligence with Python | [![Python][py_img]![Tensorflow][tf_img]![Scikit][scikit_img]![HTML][html_img]](#) | [![CS50][harvard_25_img]](#)
-:heavy_check_mark: | [fcc-scicomp-packed][fcc-scicomp-packed_link] | :file_folder: | freeCodeCamp's Scientific Computing with Python | [![Python][py_img]](#) | [![fCC][fcc_25_img]](#)
+:heavy_check_mark: | [Artificial Intelligence][cs50-ai-packed_link] | :file_folder: | CS50's Introduction to Artificial Intelligence with Python | [![Python][py_img]![Tensorflow][tf_img]![Scikit][scikit_img]![HTML][html_img]](#) | [![CS50][harvard_25_img]](#)
+:heavy_check_mark: | [Scientific Computing][fcc-scicomp-packed_link] | :file_folder: | freeCodeCamp's Scientific Computing with Python | [![Python][py_img]](#) | [![fCC][fcc_25_img]](#)
 :heavy_check_mark: | [cs50-x-packed][cs50-x-packed_link] | :file_folder: | CS50's Introduction to Computing Science | [![C][c_img]![Python][py_img]![JavaScript][js_img]![HTML][html_img]![CSS][css_img]![SQL][sql_img]](#) | [![CS50][harvard_25_img]](#)
 :clock8: | [fcc-infosec-packed][fcc-infosec-packed_link] | :file_folder: | freeCodeCamp's Information Security | [![JavaScript][js_img]![Node.js][nodejs_img]](#) | [![fCC][fcc_25_img]](#)
 :clock8: | [cs50-g-packed][cs50-g-packed_link] | :file_folder: | CS50’s Introduction to Game Development | [![Lua][lua_img]![LOVE][love_img]![C#][csharp_img]![Unity][unity_img]](#) | [![CS50][harvard_25_img]](#)
@@ -33,7 +33,7 @@ Programming Languages & Frameworks |  Tools & SWs | Operating Systems & Distribu
 [cs50-g-packed_link]:         https://github.com/GrandEchoWhiskey/cs50-g-packed
 
 <!-- freeCodeCamp links -->
-[fcc-scicomp-packed_link]:    https://github.com/GrandEchoWhiskey/fcc-scicomp-packed
+[fcc-scicomp-packed_link]:    https://github.com/GrandEchoWhiskey/course-dictionary/blob/main/freeCodeCamp/Scientific_Computing/README.md
 [fcc-infosec-packed_link]:    https://github.com/GrandEchoWhiskey/fcc-infosec-packed
 
 <!-- my links -->
