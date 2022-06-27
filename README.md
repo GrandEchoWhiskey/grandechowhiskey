@@ -15,41 +15,6 @@ Programming Languages & Frameworks |  Tools & SWs | Operating Systems & Distribu
 
 ---
 
-<br>
-<p align="center"><a href="#">
-  <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/course/harvard100.png" /><br>
-</a></p>
-<h1 align="center">CS50 Project Dictionaries</h1>
-<br>
-<p align="center">
-    <h3 align="center"><a href="https://github.com/GrandEchoWhiskey/course-dictionary/blob/main/CS50-HarvardX/CS50AI/README.md">Introduction to Artificial Intelligence with Python</a></h3>
-<p align="center"><a href="#">
-  <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/python.png" />
-  <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/tensorflow.png" />
-  <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/scikit.png" />
-  <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/html.png" />
-</a></p>
-<p align="center">
-    <h3 align="center"><a href="https://github.com/GrandEchoWhiskey/cs50-g-packed">Introduction to Game Development</a></h3>
-<p align="center"><a href="#">
-  <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/lua.png" />
-  <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/love.png" />
-  <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/csharp.png" />
-  <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/unity.png" />
-</a></p>
-<p align="center">
-    <h3 align="center"><a href="https://github.com/GrandEchoWhiskey/cs50-x-packed">Introduction to Computing Science</a></h3>
-<p align="center"><a href="#">
-  <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/c.png" />
-  <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/python.png" />
-  <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/js.png" />
-  <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/html.png" />
-  <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/css.png" />
-  <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/sql.png" />
-</a></p>
-
-</p>
-
 ## 💻 Projects
 |  | Name |  | Short Description | Language & Framework |  |
 | :---: | :--- | :---: | :--- | :---: | :---: |
