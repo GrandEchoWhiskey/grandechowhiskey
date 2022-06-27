@@ -9,26 +9,21 @@
   - 👨‍🔬 Working on a Python script that predicts a childs bloodtype.
   - 👨‍🎓 Learning Cybersecurity at WSB in Wrocław, Poland.
 
-Programming Languages & Frameworks |  Tools & SWs | Operating Systems & Distributions
-:---: | :---: | :---:
-[![Python][py_img]![C][c_img]![C++][cpp_img]![C#][csharp_img]![JavaScript][js_img]![Lua][lua_img]![TensorFlow][tf_img]![Qt][qt_img]![Unity][unity_img]![HTML5][html_img]![CSS3][css_img]![Bootstrap][bs_img]![SQL][sql_img]![Love][love_img]](#) | [![Visual Studio][vs_img]![VSCode][vsc_img]![PyCharm][pyc_img]![Console][cons_img]![CMD][cmd_img]![VirtualBox][virbox_img]](#) | [![Windows][win_img]![Linux][lin_img]![Ubuntu][ubuntu_img]![Kali Linux][kali_img]](#)
-
 ---
 
 <br>
 <p align="center"><a href="#">
   <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/course/harvard100.png" /><br>
 </a></p>
-<h1 align="center">CS50 Project Dictionaries</h1>
-<br>
+<h1 align="center">CS50<br>Project Dictionaries</h1>
 <p align="center">
-    <h3 align="center"><a href="https://github.com/GrandEchoWhiskey/course-dictionary/blob/main/CS50-HarvardX/CS50AI/README.md">Introduction to Artificial Intelligence with Python</a></h3>
+    <h3 align="center"><a href="https://github.com/GrandEchoWhiskey/course-dictionary/blob/main/CS50-HarvardX/CS50AI/README.md">Introduction to Artificial Intelligence</a></h3>
 <p align="center"><a href="#">
   <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/python.png" />
   <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/tensorflow.png" />
   <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/scikit.png" />
   <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/html.png" />
-</a></p>
+</a></p></p>
 <p align="center">
     <h3 align="center"><a href="https://github.com/GrandEchoWhiskey/cs50-g-packed">Introduction to Game Development</a></h3>
 <p align="center"><a href="#">
@@ -36,7 +31,7 @@ Programming Languages & Frameworks |  Tools & SWs | Operating Systems & Distribu
   <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/love.png" />
   <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/csharp.png" />
   <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/unity.png" />
-</a></p>
+</a></p></p>
 <p align="center">
     <h3 align="center"><a href="https://github.com/GrandEchoWhiskey/cs50-x-packed">Introduction to Computing Science</a></h3>
 <p align="center"><a href="#">
@@ -46,9 +41,25 @@ Programming Languages & Frameworks |  Tools & SWs | Operating Systems & Distribu
   <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/html.png" />
   <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/css.png" />
   <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/sql.png" />
-</a></p>
+</a></p></p>
 
-</p>
+<br><br>
+
+<p align="center"><a href="#">
+  <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/course/fcc100.png" /><br>
+</a></p>
+<h1 align="center">freeCodeCamp<br>Boilerplate Dictionaries</h1>
+<p align="center">
+    <h3 align="center"><a href="https://github.com/GrandEchoWhiskey/course-dictionary/blob/main/freeCodeCamp/Scientific_Computing/README.md">Scientific Computing</a></h3>
+<p align="center"><a href="#">
+  <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/python.png" />
+</a></p></p>
+<p align="center">
+    <h3 align="center"><a href="https://github.com/GrandEchoWhiskey/fcc-infosec-packed">Information Security</a></h3>
+<p align="center"><a href="#">
+  <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/js.png" />
+  <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/nodejs.png" />
+</a></p></p>
 
 ## 💻 Projects
 |  | Name |  | Short Description | Language & Framework |  |
