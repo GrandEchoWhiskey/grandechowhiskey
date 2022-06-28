@@ -1,10 +1,10 @@
 <p align="center"><a href="https://www.freecodecamp.org/learn/scientific-computing-with-python">
-  <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/course/fcc100.png" /><br>
+  <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/course/fcc100.png" /><br>
 </a></p>
 <h1 align="center">Scientific Computing with Python</h1>
 
 <p align="center"><a href="#">
-  <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/python.png" />
+  <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/python.png" />
 </a></p>
 
 <br>
@@ -39,4 +39,4 @@ Name | Description | Technology
 [polygon_link]: https://github.com/GrandEchoWhiskey/fcc-scicomp-polygon-area-calculator
 [probability_link]: https://github.com/GrandEchoWhiskey/fcc-scicomp-probability-calculator
 
-[py_img]: https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/python.png
+[py_img]: https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/python.png
