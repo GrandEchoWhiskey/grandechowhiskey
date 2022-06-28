@@ -20,7 +20,7 @@ Programming Languages & Frameworks |  Tools & SWs | Operating Systems & Distribu
 
 <div align="center" markdown>
   
-## 💻 Project Dictionaries
+## 📂 Project Dictionaries
 |  | Name | Language & Framework |
 | :---: | :--- | :---: |
 [![CS50][harvard_25_img]](#) | [CS50's Introduction to Artificial Intelligence with Python][cs50-ai-packed_link] | [![Python][py_img]![Tensorflow][tf_img]![Scikit][scikit_img]![HTML][html_img]](#)
