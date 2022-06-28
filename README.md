@@ -8,11 +8,16 @@
   - 👨‍🔬 Working on a Python script that predicts a childs bloodtype.
   - 👨‍🎓 Learning Cybersecurity at WSB in Wrocław, Poland.
 
+<div align="center" markdown>
+
 Programming Languages & Frameworks |  Tools & SWs | Operating Systems & Distributions
 :---: | :---: | :---:
 [![Python][py_img]![C][c_img]![C++][cpp_img]![C#][csharp_img]![JavaScript][js_img]![Lua][lua_img]![TensorFlow][tf_img]![Qt][qt_img]![Unity][unity_img]![HTML5][html_img]![CSS3][css_img]![Bootstrap][bs_img]![SQL][sql_img]![Love][love_img]](#) | [![Visual Studio][vs_img]![VSCode][vsc_img]![PyCharm][pyc_img]![Console][cons_img]![CMD][cmd_img]![VirtualBox][virbox_img]](#) | [![Windows][win_img]![Linux][lin_img]![Ubuntu][ubuntu_img]![Kali Linux][kali_img]](#)
 
+</div>
+
 ---
+
 <div align="center" markdown>
   
 ## 💻 Project Dictionaries
@@ -26,12 +31,16 @@ Programming Languages & Frameworks |  Tools & SWs | Operating Systems & Distribu
   
 </div>
 
+<div align="center" markdown>
+
 ## 💻 Projects
 Name | Short Description | Language & Framework
 :--- | :--- | :---:
 [MyICV][my-icv_link] | Interactive CV/Resume; Done for [CS50x][cs50-x-packed_link] as Final Project | [![C++][cpp_img]![Qt][qt_img]](#)
 [SC50Utils][my-cs50utils_link] | Makes repeating tasks in CS50 courses easier | [![Python][py_img]![HTML][html_img]](#)
 [Portfoilo][portfolio_link] | My Portfolio website [link][portfolio_web_link] | [![HTML][html_img]![CSS][css_img]![BootStrap][bs_img]![JavaScript][js_img]](#)
+  
+</div>
 
 <!-- CS50 links -->
 [cs50-ai-packed_link]:        dict/course/CS50-HarvardX/CS50AI/README.md
