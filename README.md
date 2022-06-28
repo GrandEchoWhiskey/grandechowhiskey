@@ -1,6 +1,5 @@
 [![][portfolio_shield]][portfolio_web_link]
 [![][status_shield]][status_link]
-[![][cert_shield]][cert_link]
 
 # 👋 Hi, I'm Eric.
 
@@ -28,12 +27,12 @@ Programming Languages & Frameworks |  Tools & SWs | Operating Systems & Distribu
 :clock8: | [portfolio][portfolio_link] |  | My Portfolio website [link][portfolio_web_link] | [![HTML][html_img]![CSS][css_img]![BootStrap][bs_img]![JavaScript][js_img]](#) | :bust_in_silhouette:
 
 <!-- CS50 links -->
-[cs50-ai-packed_link]:        https://github.com/GrandEchoWhiskey/course-dictionary/blob/main/CS50-HarvardX/CS50AI/README.md
+[cs50-ai-packed_link]:        dict/course/CS50-HarvardX/CS50AI/README.md
 [cs50-x-packed_link]:         https://github.com/GrandEchoWhiskey/cs50-x-packed
 [cs50-g-packed_link]:         https://github.com/GrandEchoWhiskey/cs50-g-packed
 
 <!-- freeCodeCamp links -->
-[fcc-scicomp-packed_link]:    https://github.com/GrandEchoWhiskey/course-dictionary/blob/main/freeCodeCamp/Scientific_Computing/README.md
+[fcc-scicomp-packed_link]:    dict/course/freeCodeCamp/Scientific_Computing/README.md
 [fcc-infosec-packed_link]:    https://github.com/GrandEchoWhiskey/fcc-infosec-packed
 
 <!-- my links -->
@@ -50,31 +49,31 @@ Programming Languages & Frameworks |  Tools & SWs | Operating Systems & Distribu
 [status_link]:                #
 
 <!-- Programming Languages & Frameworks -->
-[py_img]:                     https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/python.png
-[tf_img]:                     https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/tensorflow.png
-[cpp_img]:                    https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/cpp.png
-[qt_img]:                     https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/qt.png
-[c_img]:                      https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/c.png
-[html_img]:                   https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/html.png
-[css_img]:                    https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/css.png
-[js_img]:                     https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/js.png
-[bs_img]:                     https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/bs.png
-[sql_img]:                    https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/sql.png
-[nodejs_img]:                 https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/nodejs.png
-[csharp_img]:                 https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/csharp.png
-[lua_img]:                    https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/lua.png
-[unity_img]:                  https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/unity.png
-[love_img]:                   https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/love.png
-[dotnet_img]:                 https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/dotnet.png
-[scikit_img]:                 https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/scikit.png
+[py_img]:                     icons/programming/python.png
+[tf_img]:                     icons/programming/tensorflow.png
+[cpp_img]:                    icons/programming/cpp.png
+[qt_img]:                     icons/programming/qt.png
+[c_img]:                      icons/programming/c.png
+[html_img]:                   icons/programming/html.png
+[css_img]:                    icons/programming/css.png
+[js_img]:                     icons/programming/js.png
+[bs_img]:                     icons/programming/bs.png
+[sql_img]:                    icons/programming/sql.png
+[nodejs_img]:                 icons/programming/nodejs.png
+[csharp_img]:                 icons/programming/csharp.png
+[lua_img]:                    icons/programming/lua.png
+[unity_img]:                  icons/programming/unity.png
+[love_img]:                   icons/programming/love.png
+[dotnet_img]:                 icons/programming/dotnet.png
+[scikit_img]:                 icons/programming/scikit.png
 
 <!-- Tools & SWs -->
-[vs_img]:                     https://github.com/GrandEchoWhiskey/.github/blob/main/images/tools/vsstudio.png
-[vsc_img]:                    https://github.com/GrandEchoWhiskey/.github/blob/main/images/tools/vscode.png
-[pyc_img]:                    https://github.com/GrandEchoWhiskey/.github/blob/main/images/tools/pycharm.png
-[cons_img]:                   https://github.com/GrandEchoWhiskey/.github/blob/main/images/tools/bash.png
-[cmd_img]:                    https://github.com/GrandEchoWhiskey/.github/blob/main/images/tools/cmd.png
-[virbox_img]:                 https://github.com/GrandEchoWhiskey/.github/blob/main/images/tools/vbox.png
+[vs_img]:                     icons/tools/vsstudio.png
+[vsc_img]:                    icons/tools/vscode.png
+[pyc_img]:                    icons/tools/pycharm.png
+[cons_img]:                   icons/tools/bash.png
+[cmd_img]:                    icons/tools/cmd.png
+[virbox_img]:                 icons/tools/vbox.png
 
 <!-- Operating Systems & Distributions -->
 [win_img]:                    https://img.icons8.com/color/25/windows-10.png
@@ -83,5 +82,5 @@ Programming Languages & Frameworks |  Tools & SWs | Operating Systems & Distribu
 [kali_img]:                   https://img.icons8.com/color/25/kali-linux.png
 
 <!-- Courses -->
-[harvard_25_img]:             https://github.com/GrandEchoWhiskey/.github/blob/main/images/course/harvard25.png
-[fcc_25_img]:                 https://github.com/GrandEchoWhiskey/.github/blob/main/images/course/fcc25.png
+[harvard_25_img]:             icons/course/harvard25.png
+[fcc_25_img]:                 icons/course/fcc25.png
