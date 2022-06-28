@@ -1,13 +1,13 @@
 <p align="center"><a href="https://cs50.harvard.edu/ai/2020">
-  <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/course/harvard100.png" /><br>
+  <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/course/harvard100.png" /><br>
 </a></p>
 <h1 align="center">CS50’s Introduction to Artificial Intelligence with Python</h1>
 
 <p align="center"><a href="#">
-  <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/python.png" />
-  <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/tensorflow.png" />
-  <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/scikit.png" />
-  <img src="https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/html.png" />
+  <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/python.png" />
+  <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/tensorflow.png" />
+  <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/scikit.png" />
+  <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/html.png" />
 </a></p>
 
 <br>
@@ -40,23 +40,23 @@ Name | Description | Technology
 
 <!-- Links -->
 
-[harvard_link]: https://cs50.harvard.edu/ai/2020
+[harvard_link]:     https://cs50.harvard.edu/ai/2020
 [certificate_link]: https://certificates.cs50.io/c00985e7-89b7-4bd3-9874-9f89175d5c54
 
-[degrees_link]: https://github.com/GrandEchoWhiskey/harvard-cs50-ai-degrees
-[tictactoe_link]: https://github.com/GrandEchoWhiskey/harvard-cs50-ai-tictactoe
-[knights_link]: https://github.com/GrandEchoWhiskey/harvard-cs50-ai-knights
+[degrees_link]:     https://github.com/GrandEchoWhiskey/harvard-cs50-ai-degrees
+[tictactoe_link]:   https://github.com/GrandEchoWhiskey/harvard-cs50-ai-tictactoe
+[knights_link]:     https://github.com/GrandEchoWhiskey/harvard-cs50-ai-knights
 [minesweeper_link]: https://github.com/GrandEchoWhiskey/harvard-cs50-ai-minesweeper
-[pagerank_link]: https://github.com/GrandEchoWhiskey/harvard-cs50-ai-pagerank
-[heredity_link]: https://github.com/GrandEchoWhiskey/harvard-cs50-ai-heredity
-[crossword_link]: https://github.com/GrandEchoWhiskey/harvard-cs50-ai-crossword
-[shopping_link]: https://github.com/GrandEchoWhiskey/harvard-cs50-ai-shopping
-[nim_link]: https://github.com/GrandEchoWhiskey/harvard-cs50-ai-nim
-[traffic_link]: https://github.com/GrandEchoWhiskey/harvard-cs50-ai-traffic
-[parser_link]: https://github.com/GrandEchoWhiskey/harvard-cs50-ai-parser
-[questions_link]: https://github.com/GrandEchoWhiskey/harvard-cs50-ai-questions
+[pagerank_link]:    https://github.com/GrandEchoWhiskey/harvard-cs50-ai-pagerank
+[heredity_link]:    https://github.com/GrandEchoWhiskey/harvard-cs50-ai-heredity
+[crossword_link]:   https://github.com/GrandEchoWhiskey/harvard-cs50-ai-crossword
+[shopping_link]:    https://github.com/GrandEchoWhiskey/harvard-cs50-ai-shopping
+[nim_link]:         https://github.com/GrandEchoWhiskey/harvard-cs50-ai-nim
+[traffic_link]:     https://github.com/GrandEchoWhiskey/harvard-cs50-ai-traffic
+[parser_link]:      https://github.com/GrandEchoWhiskey/harvard-cs50-ai-parser
+[questions_link]:   https://github.com/GrandEchoWhiskey/harvard-cs50-ai-questions
 
-[py_img]: https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/python.png
-[tf_img]: https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/tensorflow.png
-[sk_img]: https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/scikit.png
-[html_img]: https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/html.png
+[py_img]:   https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/python.png
+[tf_img]:   https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/tensorflow.png
+[sk_img]:   https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/scikit.png
+[html_img]: https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/html.png
