@@ -8,6 +8,7 @@
 <p align="center"><a href="#">
   <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/js.png" />
   <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/nodejs.png" />
+  <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/python.png" />
 </a></p>
 
 <br>
@@ -24,6 +25,11 @@ Name | Description | Technology
 :--- | :--- | :---:
 [HelmetJS][helmetjs_link] | HelmetJS protection on backend | [![JavaScript][js_img]![Node.js][nodejs_img]](#)
 [BCrypt][bcrypt_link] | Hashing with BCrypt | [![JavaScript][js_img]![Node.js][nodejs_img]](#)
+Stock Price Checker | Comming Soon | [![JavaScript][js_img]![Node.js][nodejs_img]](#)
+Anonymous Message Board | Comming Soon | [![JavaScript][js_img]![Node.js][nodejs_img]](#)
+Port Scanner | Comming Soon | [![Python][py_img]](#)
+SHA-1 Password Cracker | Comming Soon | [![Python][py_img]](#)
+Secure Real Time Multiplayer Game | Comming Soon | [![JavaScript][js_img]![Node.js][nodejs_img]](#)
 
 </div>
   
@@ -35,5 +41,6 @@ Name | Description | Technology
 [helmetjs_link]: https://github.com/GrandEchoWhiskey/fcc-infosec-helmetjs
 [bcrypt_link]: https://github.com/GrandEchoWhiskey/fcc-infosec-bcrypt
 
+[py_img]: https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/python.png
 [js_img]: https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/js.png
 [nodejs_img]: https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/nodejs.png
