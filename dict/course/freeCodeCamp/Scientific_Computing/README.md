@@ -16,6 +16,8 @@
 
 ---
 
+<div align="center" markdown>
+
 ## Boilerplates:
 Name | Description | Technology
 :--- | :--- | :---:
@@ -25,6 +27,8 @@ Name | Description | Technology
 [Polygon Area Calculator][polygon_link] | Calculate how many polygons can be fit into another polygon | [![Python][py_img]](#)
 [Probability Calculator][probability_link] | Calculate the probability of drawing a ball from the hat | [![Python][py_img]](#)
 
+</div>
+  
 ---
 <p align="center"><a href="https://www.freecodecamp.org/certification/grandechowhiskey/scientific-computing-with-python-v7">
   <img src="certificate.png" width="90%"/>
