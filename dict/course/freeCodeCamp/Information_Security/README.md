@@ -27,8 +27,6 @@ Name | Description | Technology
 
 </div>
   
----
-
 <!-- Links -->
 
 [fcc_link]: https://www.freecodecamp.org/learn/information-security
