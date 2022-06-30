@@ -1,15 +1,29 @@
-# CS50’s Introduction to Computer Science
+[<- Back to main](https://github.com/GrandEchoWhiskey)
 
-[![][cert_img]][certificate_link]
+<p align="center"><a href="https://cs50.harvard.edu/ai/2020">
+  <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/course/harvard100.png" /><br>
+</a></p>
+<h1 align="center">CS50’s Introduction to Computing Science</h1>
 
-[![harvard](https://github.com/GrandEchoWhiskey/.github/blob/main/images/course/harvard100.png)](https://cs50.harvard.edu)
+<p align="center"><a href="#">
+  <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/c.png" />
+  <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/python.png" />
+  <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/sql.png" />
+  <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/js.png" />
+  <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/html.png" />
+  <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/css.png" />
+</a></p>
 
-#### Free HarvardX course on [cs50.harvard.edu/x/2022][harvard_link]
-##### Certificate key: [8166d756-6d6c-415e-a048-72f658c432d3][certificate_link]
+<br>
+
+#### Free HarvardX course on [cs50.harvard.edu/x/2022][harvard_link] 
+Certificate key: [8166d756-6d6c-415e-a048-72f658c432d3][certificate_link]
 
 ---
 
-## Problem Sets & Labs:
+<div align="center" markdown>
+
+## Projects:
 Name | Description | Technology
 :--- | :--- | :---:
 [Hello][hello_link] | Says Hello to you. | [![C][c_img]](#)
@@ -32,16 +46,19 @@ Name | Description | Technology
 [Homepage][homepage_link] | Simple homepage. | [![JavaScript][js_img]![HTML][html_img]![CSS][css_img]](#)
 [Finance][fifnance_link] | A website via wich users can "buy" and "sell" stocks. | [![Python][py_img]![HTML][html_img]](#)
 
+</div>
+  
 ---
-
-[![cert](CS50x.png)][certificate_link]
+  
+<p align="center"><a href="https://certificates.cs50.io/c00985e7-89b7-4bd3-9874-9f89175d5c54">
+  <img src="CS50x.png" width="90%"/>
+</a></p>
 
 <!-- Links -->
 
-[cert_img]: https://img.shields.io/badge/certificate-achieved-darkgreen?style=flat-square
-
-[harvard_link]: https://cs50.harvard.edu/x/2022
+[harvard_link]:     https://cs50.harvard.edu/x/2022
 [certificate_link]: https://certificates.cs50.io/8166d756-6d6c-415e-a048-72f658c432d3
+
 
 [hello_link]: https://github.com/GrandEchoWhiskey/cs50-x-packed/tree/main/hello
 [mario_link]: https://github.com/GrandEchoWhiskey/cs50-x-packed/tree/main/mario-more
@@ -63,9 +80,9 @@ Name | Description | Technology
 [homepage_link]: https://github.com/GrandEchoWhiskey/cs50-x-packed/tree/main/homepage
 [fifnance_link]: https://github.com/GrandEchoWhiskey/cs50-x-packed/tree/main/finance
 
-[c_img]: https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/c.png
-[py_img]: https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/python.png
-[sql_img]: https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/sql.png
-[js_img]: https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/js.png
-[html_img]: https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/html.png
-[css_img]: https://github.com/GrandEchoWhiskey/.github/blob/main/images/programming/css.png
+[c_img]: https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/c.png
+[py_img]: https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/python.png
+[sql_img]: https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/sql.png
+[js_img]: https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/js.png
+[html_img]: https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/html.png
+[css_img]: https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/css.png
