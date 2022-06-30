@@ -30,7 +30,7 @@ Programming Languages & Frameworks |  Tools & SWs | Operating Systems & Distribu
 [![CS50][harvard_25_img]](#) | [CS50’s Introduction to Game Development][cs50-g-packed_link] | 5/11 | [![Lua][lua_img]![LOVE][love_img]![C#][csharp_img]![Unity][unity_img]](#)
 [![CS50][harvard_25_img]](#) | [CS50's Introduction to Computing Science][cs50-x-packed_link] | 19/19 | [![C][c_img]![Python][py_img]![JavaScript][js_img]![HTML][html_img]![CSS][css_img]![SQL][sql_img]](#)
 [![fCC][fcc_25_img]](#) | [freeCodeCamp - Scientific Computing with Python][fcc-scicomp-packed_link] | 5/5 | [![Python][py_img]](#)
-[![fCC][fcc_25_img]](#) | [freeCodeCamp - Information Security][fcc-infosec-packed_link] | 2/7 | [![JavaScript][js_img]![Node.js][nodejs_img]](#)
+[![fCC][fcc_25_img]](#) | [freeCodeCamp - Information Security][fcc-infosec-packed_link] | 2/7 | [![JavaScript][js_img]![Node.js][nodejs_img]![Python][py_img]](#)
   
 </div>
 <br>
@@ -52,7 +52,7 @@ Name | Short Description | Technology
 
 <!-- freeCodeCamp links -->
 [fcc-scicomp-packed_link]:    dict/course/freeCodeCamp/Scientific_Computing/README.md
-[fcc-infosec-packed_link]:    https://github.com/GrandEchoWhiskey/fcc-infosec-packed
+[fcc-infosec-packed_link]:    dict/course/freeCodeCamp/Information_Security/README.md
 
 <!-- my links -->
 [my-icv_link]:                https://github.com/GrandEchoWhiskey/my-icv
