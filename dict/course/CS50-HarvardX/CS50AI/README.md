@@ -19,6 +19,8 @@ Certificate key: [c00985e7-89b7-4bd3-9874-9f89175d5c54][certificate_link]
 
 ---
 
+<div align="center" markdown>
+
 ## Projects:
 Name | Description | Technology
 :--- | :--- | :---:
@@ -35,7 +37,10 @@ Name | Description | Technology
 [Parser][parser_link] | Parses sentences and extract noun phrases. | [![Python][py_img]](#)
 [Questions][questions_link] | An AI that answers questions based on given text. | [![Python][py_img]](#)
 
+</div>
+  
 ---
+  
 <p align="center"><a href="https://certificates.cs50.io/c00985e7-89b7-4bd3-9874-9f89175d5c54">
   <img src="CS50AI.png" width="90%"/>
 </a></p>
