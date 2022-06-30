@@ -24,20 +24,20 @@ Programming Languages & Frameworks |  Tools & SWs | Operating Systems & Distribu
 <div align="center" markdown>
   
 ## 📂 Project Dictionaries
-|  | Name | Language & Framework |
-| :---: | :--- | :---: |
-[![CS50][harvard_25_img]](#) | [CS50's Introduction to Artificial Intelligence with Python][cs50-ai-packed_link] | [![Python][py_img]![Tensorflow][tf_img]![Scikit][scikit_img]![HTML][html_img]](#)
-[![CS50][harvard_25_img]](#) | [CS50’s Introduction to Game Development][cs50-g-packed_link] | [![Lua][lua_img]![LOVE][love_img]![C#][csharp_img]![Unity][unity_img]](#)
-[![CS50][harvard_25_img]](#) | [CS50's Introduction to Computing Science][cs50-x-packed_link] | [![C][c_img]![Python][py_img]![JavaScript][js_img]![HTML][html_img]![CSS][css_img]![SQL][sql_img]](#)
-[![fCC][fcc_25_img]](#) | [freeCodeCamp - Scientific Computing with Python][fcc-scicomp-packed_link] | [![Python][py_img]](#)
-[![fCC][fcc_25_img]](#) | [freeCodeCamp - Information Security][fcc-infosec-packed_link] | [![JavaScript][js_img]![Node.js][nodejs_img]](#)
+|  | Name | Complete | Technology
+| :---: | :--- | :---: | :---:
+[![CS50][harvard_25_img]](#) | [CS50's Introduction to Artificial Intelligence with Python][cs50-ai-packed_link] | 12/12 | [![Python][py_img]![Tensorflow][tf_img]![Scikit][scikit_img]![HTML][html_img]](#)
+[![CS50][harvard_25_img]](#) | [CS50’s Introduction to Game Development][cs50-g-packed_link] |  | [![Lua][lua_img]![LOVE][love_img]![C#][csharp_img]![Unity][unity_img]](#)
+[![CS50][harvard_25_img]](#) | [CS50's Introduction to Computing Science][cs50-x-packed_link] |  | [![C][c_img]![Python][py_img]![JavaScript][js_img]![HTML][html_img]![CSS][css_img]![SQL][sql_img]](#)
+[![fCC][fcc_25_img]](#) | [freeCodeCamp - Scientific Computing with Python][fcc-scicomp-packed_link] |  | [![Python][py_img]](#)
+[![fCC][fcc_25_img]](#) | [freeCodeCamp - Information Security][fcc-infosec-packed_link] |  | [![JavaScript][js_img]![Node.js][nodejs_img]](#)
   
 </div>
 <br>
 <div align="center" markdown>
 
 ## 💻 Projects
-Name | Short Description | Language & Framework
+Name | Short Description | Technology
 :--- | :--- | :---:
 [MyICV][my-icv_link] | Interactive CV/Resume; Done for [CS50x][cs50-x-packed_link] as Final Project | [![C++][cpp_img]![Qt][qt_img]](#)
 [SC50Utils][my-cs50utils_link] | Makes repeating tasks in CS50 courses easier | [![Python][py_img]![HTML][html_img]](#)
