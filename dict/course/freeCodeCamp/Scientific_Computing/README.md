@@ -11,7 +11,7 @@
 
 <br>
 
-#### freeCodeCamp course on [freecodecamp.org][fcc_link]
+#### freeCodeCamp course on [freecodecamp.org/learn/scientific-computing-with-python][fcc_link]
 ##### Certificate link: [click here][certificate_link]
 
 ---
