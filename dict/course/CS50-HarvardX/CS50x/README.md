@@ -44,7 +44,7 @@ Name | Description | Technology
 [Movies][movies_link] | Anwser questions about a DB of movies | [![SQL][sql_img]](#)
 [Fiftyville][fiftyville_link] | Solve a mystery | [![SQL][sql_img]](#)
 [Homepage][homepage_link] | Simple homepage. | [![JavaScript][js_img]![HTML][html_img]![CSS][css_img]](#)
-[Finance][fifnance_link] | A website via wich users can "buy" and "sell" stocks. | [![Python][py_img]![HTML][html_img]](#)
+[Finance][finance_link] | A website via wich users can "buy" and "sell" stocks. | [![Python][py_img]![HTML][html_img]](#)
 
 </div>
   
@@ -60,25 +60,25 @@ Name | Description | Technology
 [certificate_link]: https://certificates.cs50.io/8166d756-6d6c-415e-a048-72f658c432d3
 
 
-[hello_link]: https://github.com/GrandEchoWhiskey/cs50-x-packed/tree/main/hello
-[mario_link]: https://github.com/GrandEchoWhiskey/cs50-x-packed/tree/main/mario-more
-[credit_link]: https://github.com/GrandEchoWhiskey/cs50-x-packed/tree/main/credit
-[readability_link]: https://github.com/GrandEchoWhiskey/cs50-x-packed/tree/main/readability
-[substitution_link]: https://github.com/GrandEchoWhiskey/cs50-x-packed/tree/main/substitution
-[plurality_link]: https://github.com/GrandEchoWhiskey/cs50-x-packed/tree/main/plurality
-[tideman_link]: https://github.com/GrandEchoWhiskey/cs50-x-packed/tree/main/tideman
-[filter_link]: https://github.com/GrandEchoWhiskey/cs50-x-packed/tree/main/filter-more
-[recover_link]: https://github.com/GrandEchoWhiskey/cs50-x-packed/tree/main/recover
-[speller_link]: https://github.com/GrandEchoWhiskey/cs50-x-packed/tree/main/speller
-[hello_py_link]: https://github.com/GrandEchoWhiskey/cs50-x-packed/tree/main/sentimental-hello
-[mario_py_link]: https://github.com/GrandEchoWhiskey/cs50-x-packed/tree/main/sentimental-mario-more
-[credit_py_link]: https://github.com/GrandEchoWhiskey/cs50-x-packed/tree/main/sentimental-credit
-[readability_py_link]: https://github.com/GrandEchoWhiskey/cs50-x-packed/tree/main/sentimental-readability
-[dna_link]: https://github.com/GrandEchoWhiskey/cs50-x-packed/tree/main/dna
-[movies_link]: https://github.com/GrandEchoWhiskey/cs50-x-packed/tree/main/movies
-[fiftyville_link]: https://github.com/GrandEchoWhiskey/cs50-x-packed/tree/main/fiftyville
-[homepage_link]: https://github.com/GrandEchoWhiskey/cs50-x-packed/tree/main/homepage
-[fifnance_link]: https://github.com/GrandEchoWhiskey/cs50-x-packed/tree/main/finance
+[hello_link]:           https://github.com/GrandEchoWhiskey/harvard-cs50-x-hello
+[mario_link]:           https://github.com/GrandEchoWhiskey/harvard-cs50-x-mario-more
+[credit_link]:          https://github.com/GrandEchoWhiskey/harvard-cs50-x-credit
+[readability_link]:     https://github.com/GrandEchoWhiskey/harvard-cs50-x-readability
+[substitution_link]:    https://github.com/GrandEchoWhiskey/harvard-cs50-x-substitution
+[plurality_link]:       https://github.com/GrandEchoWhiskey/harvard-cs50-x-plurality
+[tideman_link]:         https://github.com/GrandEchoWhiskey/harvard-cs50-x-tideman
+[filter_link]:          https://github.com/GrandEchoWhiskey/harvard-cs50-x-filter-more
+[recover_link]:         https://github.com/GrandEchoWhiskey/harvard-cs50-x-recover
+[speller_link]:         https://github.com/GrandEchoWhiskey/harvard-cs50-x-speller
+[hello_py_link]:        https://github.com/GrandEchoWhiskey/harvard-cs50-x-sentimental-hello
+[mario_py_link]:        https://github.com/GrandEchoWhiskey/harvard-cs50-x-sentimental-mario-more
+[credit_py_link]:       https://github.com/GrandEchoWhiskey/harvard-cs50-x-sentimental-credit
+[readability_py_link]:  https://github.com/GrandEchoWhiskey/harvard-cs50-x-sentimental-readability
+[dna_link]:             https://github.com/GrandEchoWhiskey/harvard-cs50-x-dna
+[movies_link]:          https://github.com/GrandEchoWhiskey/harvard-cs50-x-movies
+[fiftyville_link]:      https://github.com/GrandEchoWhiskey/harvard-cs50-x-fiftyville
+[homepage_link]:        https://github.com/GrandEchoWhiskey/harvard-cs50-x-homepage
+[finance_link]:         https://github.com/GrandEchoWhiskey/harvard-cs50-x-finance
 
 [c_img]: https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/c.png
 [py_img]: https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/python.png
