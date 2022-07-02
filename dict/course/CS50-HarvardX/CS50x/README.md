@@ -23,7 +23,7 @@ Certificate key: [8166d756-6d6c-415e-a048-72f658c432d3][certificate_link]
 
 <div align="center" markdown>
 
-## Projects:
+## Problems:
 Name | Description | Technology
 :--- | :--- | :---:
 [Hello][hello_link] | Says Hello to you. | [![C][c_img]](#)
