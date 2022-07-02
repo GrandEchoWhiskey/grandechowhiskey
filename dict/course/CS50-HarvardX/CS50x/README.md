@@ -46,6 +46,18 @@ Name | Description | Technology
 [Homepage][homepage_link] | Simple homepage. | [![JavaScript][js_img]![HTML][html_img]![CSS][css_img]](#)
 [Finance][finance_link] | A website via wich users can "buy" and "sell" stocks. | [![Python][py_img]![HTML][html_img]](#)
 
+## Labs
+Name | Description | Technology
+:--- | :--- | :---:
+[Scrabble][scrabble_link] | Compares letters used by two players, and their value | [![C][c_img]](#)
+[Sort][sort_link] | Anwsers of what sorting algorthm was used | 
+[Volume][volume_link] | Modifies the volume of an .wav audio file | [![C][c_img]](#)
+[Inheritance][inheritance_link] | Simulates the inheritance of blood types for each member of a family | [![C][c_img]](#)
+[World Cup][worldcup_link] | Simulates multiple FIFA World Cups | [![Python][py_img]](#)
+[Songs][songs_link] | Answer questions about a database of songs | [![SQL][sql_img]](#)
+[Trivia][trivia_link] | A webpage that lets users answer trivia questions | [![HTML][html_img]![CSS][css_img]](#)
+[Birthdays][birthdays_link] | A web application to keep track of friends’ birthdays | [![Python][py_img]![HTML][html_img]![CSS][css_img]](#)
+  
 </div>
   
 ---
@@ -79,6 +91,16 @@ Name | Description | Technology
 [fiftyville_link]:      https://github.com/GrandEchoWhiskey/harvard-cs50-x-fiftyville
 [homepage_link]:        https://github.com/GrandEchoWhiskey/harvard-cs50-x-homepage
 [finance_link]:         https://github.com/GrandEchoWhiskey/harvard-cs50-x-finance
+
+<!-- Labs -->
+[scrabble_link]:        https://github.com/GrandEchoWhiskey/harvard-cs50-x-lab-scrabble
+[sort_link]:            https://github.com/GrandEchoWhiskey/harvard-cs50-x-lab-sort
+[volume_link]:          https://github.com/GrandEchoWhiskey/harvard-cs50-x-lab-volume
+[inheritance_link]:     https://github.com/GrandEchoWhiskey/harvard-cs50-x-lab-inheritance
+[worldcup_link]:        https://github.com/GrandEchoWhiskey/harvard-cs50-x-lab-world-cup
+[songs_link]:           https://github.com/GrandEchoWhiskey/harvard-cs50-x-lab-songs
+[trivia_link]:          https://github.com/GrandEchoWhiskey/harvard-cs50-x-lab-trivia
+[birthdays_link]:       https://github.com/GrandEchoWhiskey/harvard-cs50-x-lab-birthdays
 
 [c_img]: https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/c.png
 [py_img]: https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/python.png
