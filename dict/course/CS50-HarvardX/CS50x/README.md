@@ -46,7 +46,7 @@ Name | Description | Technology
 [Homepage][homepage_link] | Simple homepage. | [![JavaScript][js_img]![HTML][html_img]![CSS][css_img]](#)
 [Finance][finance_link] | A website via wich users can "buy" and "sell" stocks. | [![Python][py_img]![HTML][html_img]](#)
 
-## Labs
+## Labs:
 Name | Description | Technology
 :--- | :--- | :---:
 [Scrabble][scrabble_link] | Compares letters used by two players, and their value | [![C][c_img]](#)
