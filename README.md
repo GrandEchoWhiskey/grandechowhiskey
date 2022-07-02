@@ -24,11 +24,11 @@ Programming Languages & Frameworks |  Tools & SWs | Operating Systems & Distribu
 <div align="center" markdown>
   
 ## 📂 Project Dictionaries
-|  | Name | Complete | Technology
+| &nbsp; | Name | Complete | Technology
 | :---: | :--- | :---: | :---:
 [![CS50][harvard_25_img]](#) | [CS50's Introduction to Artificial Intelligence with Python][cs50-ai-packed_link] | 12/12 | [![Python][py_img]![Tensorflow][tf_img]![Scikit][scikit_img]![HTML][html_img]](#)
 [![CS50][harvard_25_img]](#) | [CS50’s Introduction to Game Development][cs50-g-packed_link] | 5/11 | [![Lua][lua_img]![LOVE][love_img]![C#][csharp_img]![Unity][unity_img]](#)
-[![CS50][harvard_25_img]](#) | [CS50's Introduction to Computing Science][cs50-x-packed_link] | 19/19 | [![C][c_img]![Python][py_img]![JavaScript][js_img]![HTML][html_img]![CSS][css_img]![SQL][sql_img]](#)
+[![CS50][harvard_25_img]](#) | [CS50's Introduction to Computing Science][cs50-x-packed_link] | 27/27 | [![C][c_img]![Python][py_img]![JavaScript][js_img]![HTML][html_img]![CSS][css_img]![SQL][sql_img]](#)
 [![fCC][fcc_25_img]](#) | [freeCodeCamp - Scientific Computing with Python][fcc-scicomp-packed_link] | 5/5 | [![Python][py_img]](#)
 [![fCC][fcc_25_img]](#) | [freeCodeCamp - Information Security][fcc-infosec-packed_link] | 2/7 | [![JavaScript][js_img]![Node.js][nodejs_img]![Python][py_img]](#)
   
