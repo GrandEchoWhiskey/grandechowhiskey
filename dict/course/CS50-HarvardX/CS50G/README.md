@@ -29,7 +29,7 @@ Name | Description | Technology
 [Breakout][breakout_link] | Breakout game with powerups | [![Lua][lua_img]![LÖVE][love_img]](#)
 [Match][match_link] | Match 3 in a row, added special tiles | [![Lua][lua_img]![LÖVE][love_img]](#)
 [Mario][mario_link] | Mario game generated automaticly | [![Lua][lua_img]![LÖVE][love_img]](#)
-[Zelda][zelda_link] | Comming Soon | [![Lua][lua_img]![LÖVE][love_img]](#)
+[Zelda][zelda_link] | Zelda game with pot throwing | [![Lua][lua_img]![LÖVE][love_img]](#)
 [Angry][angry_link] | Comming Soon | [![Lua][lua_img]![LÖVE][love_img]](#)
 [Pokemon][pokemon_link] | Comming Soon | [![Lua][lua_img]![LÖVE][love_img]](#)
 [Helicopter][helicopter_link] | Comming Soon | [![C#][csharp_img]![Unity][unity_img]](#)
