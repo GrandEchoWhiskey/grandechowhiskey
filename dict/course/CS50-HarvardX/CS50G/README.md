@@ -31,7 +31,7 @@ Name | Description | Technology
 [Mario][mario_link] | Mario game generated automaticly | [![Lua][lua_img]![LÖVE][love_img]](#)
 [Zelda][zelda_link] | Zelda game with pot throwing | [![Lua][lua_img]![LÖVE][love_img]](#)
 [Angry][angry_link] | Throwing birds, and splitting in air | [![Lua][lua_img]![LÖVE][love_img]](#)
-[Pokemon][pokemon_link] | Comming Soon | [![Lua][lua_img]![LÖVE][love_img]](#)
+[Pokemon][pokemon_link] | Pokemon game with stats, and level up | [![Lua][lua_img]![LÖVE][love_img]](#)
 [Helicopter][helicopter_link] | Comming Soon | [![C#][csharp_img]![Unity][unity_img]](#)
 [Dreadhalls][dreadhalls_link] | Comming Soon | [![C#][csharp_img]![Unity][unity_img]](#)
 [Portal][portal_link] | Comming Soon | [![C#][csharp_img]![Unity][unity_img]](#)
