@@ -5,7 +5,6 @@
 
 #### I'm currently:
   - 👨‍💻 Taking course CS50's Introduction to Game Development.
-  - 👨‍🔬 Working on a Python script that predicts a childs bloodtype.
   - 👨‍🎓 Learning Cybersecurity at WSB in Wrocław, Poland.
 
 <br><br>
