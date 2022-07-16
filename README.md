@@ -47,7 +47,7 @@ Name | Short Description | Technology
 
 <!-- CS50 links -->
 [cs50-ai-packed_link]:        dict/course/CS50-HarvardX/CS50AI/README.md
-[cs50-x-packed_link]:         dict/course/CS50-HarvardX/CS50x/README.md
+[cs50-x-packed_link]:         https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/blob/main/README.md
 [cs50-g-packed_link]:         dict/course/CS50-HarvardX/CS50G/README.md
 
 <!-- freeCodeCamp links -->
