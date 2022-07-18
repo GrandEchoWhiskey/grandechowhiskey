@@ -25,11 +25,11 @@ Programming Languages & Frameworks |  Tools & SWs | Operating Systems & Distribu
 ## 📂 Project Dictionaries
 | &nbsp; | Name | Complete | Technology
 | :---: | :--- | :---: | :---:
-[![CS50][harvard_25_img]](#) | [Artificial Intelligence with Python][cs50-ai-packed_link] | 12/12 | [![Python][py_img]![Tensorflow][tf_img]![Scikit][scikit_img]![HTML][html_img]](#)
+[![CS50][harvard_25_img]](#) | [Artificial Intelligence][cs50-ai-packed_link] | 12/12 | [![Python][py_img]![Tensorflow][tf_img]![Scikit][scikit_img]![HTML][html_img]](#)
 [![CS50][harvard_25_img]](#) | [Game Development][cs50-g-packed_link] | 8/11 | [![Lua][lua_img]![LOVE][love_img]![C#][csharp_img]![Unity][unity_img]](#)
-[![CS50][harvard_25_img]](#) | [Web Programming with Python and JavaScript](#) | 1/5 | [![JavaScript][js_img]![Python][py_img]![HTML][html_img]![CSS][css_img]](#)
+[![CS50][harvard_25_img]](#) | [Web Programming](#) | 1/5 | [![JavaScript][js_img]![Python][py_img]![HTML][html_img]![CSS][css_img]](#)
 [![CS50][harvard_25_img]](#) | [Computing Science][cs50-x-packed_link] | 27/27 | [![C][c_img]![Python][py_img]![JavaScript][js_img]![HTML][html_img]![CSS][css_img]![SQL][sql_img]](#)
-[![fCC][fcc_25_img]](#) | [Scientific Computing with Python][fcc-scicomp-packed_link] | 5/5 | [![Python][py_img]](#)
+[![fCC][fcc_25_img]](#) | [Scientific Computing][fcc-scicomp-packed_link] | 5/5 | [![Python][py_img]](#)
 [![fCC][fcc_25_img]](#) | [Information Security][fcc-infosec-packed_link] | 2/7 | [![JavaScript][js_img]![Node.js][nodejs_img]![Python][py_img]](#)
   
 </div>
