@@ -30,7 +30,7 @@ Programming Languages & Frameworks |  Tools & SWs | Operating Systems & Distribu
 [![CS50][harvard_25_img]](#) | [Web Programming](#) | 1/5 | [![JavaScript][js_img]![Python][py_img]![HTML][html_img]![CSS][css_img]](#)
 [![CS50][harvard_25_img]](#) | [Computing Science][cs50-x-packed_link] | 27/27 | [![C][c_img]![Python][py_img]![JavaScript][js_img]![HTML][html_img]![CSS][css_img]![SQL][sql_img]](#)
 [![fCC][fcc_25_img]](#) | [Scientific Computing][fcc-scicomp-packed_link] | 5/5 | [![Python][py_img]](#)
-[![fCC][fcc_25_img]](#) | [Information Security][fcc-infosec-packed_link] | 2/7 | [![JavaScript][js_img]![Node.js][nodejs_img]![Python][py_img]](#)
+[![fCC][fcc_25_img]](#) | [Information Security][fcc-infosec-packed_link] | 4/7 | [![JavaScript][js_img]![Node.js][nodejs_img]![Python][py_img]](#)
   
 </div>
 <br>
