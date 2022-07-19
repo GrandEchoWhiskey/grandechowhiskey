@@ -48,11 +48,12 @@ Name | Short Description | Technology
 <!-- CS50 links -->
 [cs50-ai-packed_link]:        https://github.com/GrandEchoWhiskey/harvard-cs50-ai-projects/blob/main/README.md
 [cs50-x-packed_link]:         https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/blob/main/README.md
-[cs50-g-packed_link]:         dict/course/CS50-HarvardX/CS50G/README.md
+[cs50-g-packed_link]:         https://github.com/GrandEchoWhiskey/harvard-cs50-game-projects/blob/main/README.md
+[cs50-w-packed_link]:         https://github.com/GrandEchoWhiskey/harvard-cs50-web-projects/blob/main/README.md
 
 <!-- freeCodeCamp links -->
-[fcc-scicomp-packed_link]:    dict/course/freeCodeCamp/Scientific_Computing/README.md
-[fcc-infosec-packed_link]:    dict/course/freeCodeCamp/Information_Security/README.md
+[fcc-scicomp-packed_link]:    https://github.com/GrandEchoWhiskey/fcc-scicomp-boilerplates/blob/main/README.md
+[fcc-infosec-packed_link]:    https://github.com/GrandEchoWhiskey/fcc-infosec-boilerplates/blob/main/README.md
 
 <!-- my links -->
 [my-icv_link]:                https://github.com/GrandEchoWhiskey/my-icv
