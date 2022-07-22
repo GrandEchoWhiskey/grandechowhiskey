@@ -4,8 +4,9 @@
 # 👋 Hi, I'm Eric.
 
 #### I'm currently:
-  - 👨‍💻 Taking course CS50's Introduction to Game Development.
+  - 👨‍💻 Taking a few CS50 and freeCodeCamp courses simultaneously.
   - 👨‍🎓 Learning Cybersecurity at WSB in Wrocław, Poland.
+  - 🏨 Currently I'm on a business trip.
 
 <br><br>
 <div align="center" markdown>
