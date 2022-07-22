@@ -6,7 +6,7 @@
 #### I'm currently:
   - 👨‍💻 Taking a few CS50 and freeCodeCamp courses simultaneously.
   - 👨‍🎓 Learning Cybersecurity at WSB in Wrocław, Poland.
-  - 🏨 Currently I'm on a business trip.
+  - 🏨 On a business trip.
 
 <br><br>
 <div align="center" markdown>
