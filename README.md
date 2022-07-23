@@ -30,7 +30,7 @@ Programming Languages & Frameworks |  Tools & SWs | Operating Systems & Distribu
 [![CS50][harvard_25_img]](#) | [Game Development][cs50-g-packed_link] | 8/11 | [![Lua][lua_img]![LOVE][love_img]![C#][csharp_img]![Unity][unity_img]](#)
 [![CS50][harvard_25_img]](#) | [Web Programming][cs50-w-packed_link] | 1/5 | [![JavaScript][js_img]![Python][py_img]![HTML][html_img]![CSS][css_img]](#)
 [![CS50][harvard_25_img]](#) | [Computing Science][cs50-x-packed_link] | 27/27 | [![C][c_img]![Python][py_img]![JavaScript][js_img]![HTML][html_img]![CSS][css_img]![SQL][sql_img]](#)
-[![cs50][harvard_25_img]](#) | [Python Programming][cs50-p-packed_link] | 19/41 | [![Python][py_img]](#)
+[![cs50][harvard_25_img]](#) | [Python Programming][cs50-p-packed_link] | 25/41 | [![Python][py_img]](#)
 [![fCC][fcc_25_img]](#) | [Scientific Computing][fcc-scicomp-packed_link] | 5/5 | [![Python][py_img]](#)
 [![fCC][fcc_25_img]](#) | [Information Security][fcc-infosec-packed_link] | 4/7 | [![JavaScript][js_img]![Node.js][nodejs_img]![Python][py_img]](#)
   
