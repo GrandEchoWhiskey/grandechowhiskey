@@ -26,12 +26,12 @@ Programming Languages & Frameworks |  Tools & SWs | Operating Systems & Distribu
 ## 📂 Project Dictionaries
 | &nbsp; | Name | Progress | Technology
 | :---: | :--- | :---: | :---:
-[![CS50][harvard_25_img]](#) | [Artificial Intelligence][cs50-ai-packed_link] | done | [![Python][py_img]![Tensorflow][tf_img]![Scikit][scikit_img]![HTML][html_img]](#)
+[![CS50][harvard_25_img]](#) | [Artificial Intelligence][cs50-ai-packed_link] | ✔️ | [![Python][py_img]![Tensorflow][tf_img]![Scikit][scikit_img]![HTML][html_img]](#)
 [![CS50][harvard_25_img]](#) | [Game Development][cs50-g-packed_link] | 66% | [![Lua][lua_img]![LOVE][love_img]![C#][csharp_img]![Unity][unity_img]](#)
 [![CS50][harvard_25_img]](#) | [Web Programming][cs50-w-packed_link] | 20% | [![JavaScript][js_img]![Python][py_img]![HTML][html_img]![CSS][css_img]](#)
-[![CS50][harvard_25_img]](#) | [Computing Science][cs50-x-packed_link] | done | [![C][c_img]![Python][py_img]![JavaScript][js_img]![HTML][html_img]![CSS][css_img]![SQL][sql_img]](#)
+[![CS50][harvard_25_img]](#) | [Computing Science][cs50-x-packed_link] | ✔️ | [![C][c_img]![Python][py_img]![JavaScript][js_img]![HTML][html_img]![CSS][css_img]![SQL][sql_img]](#)
 [![cs50][harvard_25_img]](#) | [Python Programming][cs50-p-packed_link] | 70% | [![Python][py_img]](#)
-[![fCC][fcc_25_img]](#) | [Scientific Computing][fcc-scicomp-packed_link] | done | [![Python][py_img]](#)
+[![fCC][fcc_25_img]](#) | [Scientific Computing][fcc-scicomp-packed_link] | ✔️ | [![Python][py_img]](#)
 [![fCC][fcc_25_img]](#) | [Information Security][fcc-infosec-packed_link] | 57% | [![JavaScript][js_img]![Node.js][nodejs_img]![Python][py_img]](#)
   
 </div>
