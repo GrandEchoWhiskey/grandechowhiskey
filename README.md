@@ -18,7 +18,7 @@
   
 ## 📂 Project Dictionaries
   
-| &nbsp; | Name | Progress | Technology
+| &nbsp; | Name | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Technology
 | :---: | :--- | :---: | :---:
 [![CS50][harvard_25_img]](#) | [Artificial Intelligence][cs50-ai-packed_link] | [![100%][shield-100]][progr_link] | [![Python][py_img]![Tensorflow][tf_img]![Scikit][scikit_img]![HTML][html_img]](#)
 [![CS50][harvard_25_img]](#) | [Game Development][cs50-g-packed_link] | [![66%][shield-66]][progr_link] | [![Lua][lua_img]![LOVE][love_img]![C#][csharp_img]![Unity][unity_img]](#)
@@ -204,6 +204,6 @@ Name | Short Description | Technology
 [shield-97]: https://img.shields.io/badge/Progress-97%25-darkgreen?style=flat-square
 [shield-98]: https://img.shields.io/badge/Progress-98%25-darkgreen?style=flat-square
 [shield-99]: https://img.shields.io/badge/Progress-99%25-darkgreen?style=flat-square
-[shield-100]: https://img.shields.io/badge/Progress-done-black?style=flat-square
+[shield-100]: https://img.shields.io/badge/Progress-done-blue?style=flat-square
 
 
