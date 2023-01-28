@@ -61,7 +61,7 @@ Name | Short Description | Technology
 [portfolio_shield]:           https://img.shields.io/website?style=flat-square&down_color=red&down_message=Offline&label=Portfolio&up_color=green&up_message=Online&url=https%3A%2F%2Fgrandechowhiskey.github.io
 [progr_shield]:               https://img.shields.io/badge/Progress-66%25-darkgreen?style=flat-square
 [progr_link]:                 #
-[status_shield]:              https://img.shields.io/badge/Position-Junior_Developer-blue?style=flat-square
+[status_shield]:              https://img.shields.io/badge/Developer-Junior-blue?style=flat-square
 [status_link]:                #
 
 <!-- Programming Languages & Frameworks -->
