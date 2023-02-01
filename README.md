@@ -15,7 +15,7 @@
 <br>
 <div align="center" markdown>
   
-## 📂 Project Dictionaries
+## [![CS50][harvard_25_img]](#) CS50 courses
   
 | &nbsp; | Name | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Technology
 | :---: | :--- | :---: | :---:
@@ -23,7 +23,13 @@
 [![CS50][harvard_25_img]](#) | [Game Development][cs50-g-packed_link] | [![92%][shield-92]][progr_link] | [![Lua][lua_img]![LOVE][love_img]![C#][csharp_img]![Unity][unity_img]](#)
 [![CS50][harvard_25_img]](#) | [Web Programming][cs50-w-packed_link] | [![0%][shield-0]][progr_link] | [![JavaScript][js_img]![Python][py_img]![HTML][html_img]![CSS][css_img]](#)
 [![CS50][harvard_25_img]](#) | [Computing Science][cs50-x-packed_link] | [![100%][shield-100]][progr_link] | [![C][c_img]![Python][py_img]![JavaScript][js_img]![HTML][html_img]![CSS][css_img]![SQL][sql_img]](#)
-[![cs50][harvard_25_img]](#) | [Python Programming][cs50-p-packed_link] | [![100%][shield-100]][progr_link] | [![Python][py_img]](#)  
+[![cs50][harvard_25_img]](#) | [Python Programming][cs50-p-packed_link] | [![100%][shield-100]][progr_link] | [![Python][py_img]](#)
+
+## [![fCC][fcc_25_img]](#) FreeCodeCamp courses
+
+| &nbsp; | Name | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Technology
+| :---: | :--- | :---: | :---:
+[![fCC][fcc_25_img]](#) | [Artificial Intelligence][fcc-scicomp-packed_link] | [![100%][shield-100]][progr_link] | [![Python][py_img]![Tensorflow][tf_img]](#)
 [![fCC][fcc_25_img]](#) | [Scientific Computing][fcc-scicomp-packed_link] | [![100%][shield-100]][progr_link] | [![Python][py_img]](#)
 [![fCC][fcc_25_img]](#) | [Information Security][fcc-infosec-packed_link] | [![57%][shield-57]][progr_link] | [![JavaScript][js_img]![Node.js][nodejs_img]![Python][py_img]](#)
   
