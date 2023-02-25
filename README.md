@@ -22,7 +22,7 @@
 Name | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Technology
 :--- | :---: | :---:
 [Artificial Intelligence][cs50-ai-packed_link] | [![100%][shield-100]][progr_link] | [![Python][py_img]![Tensorflow][tf_img]![Scikit][scikit_img]![HTML][html_img]](#)
-[Game Development][cs50-g-packed_link] | [![92%][shield-92]][progr_link] | [![Lua][lua_img]![LOVE][love_img]![C#][csharp_img]![Unity][unity_img]](#)
+[Game Development][cs50-g-packed_link] | [![100%][shield-100]][progr_link] | [![Lua][lua_img]![LOVE][love_img]![C#][csharp_img]![Unity][unity_img]](#)
 [Web Programming][cs50-w-packed_link] | [![0%][shield-0]][progr_link] | [![JavaScript][js_img]![Python][py_img]![HTML][html_img]![CSS][css_img]](#)
 [Computing Science][cs50-x-packed_link] | [![100%][shield-100]][progr_link] | [![C][c_img]![Python][py_img]![JavaScript][js_img]![HTML][html_img]![CSS][css_img]![SQL][sql_img]](#)
 [Python Programming][cs50-p-packed_link] | [![100%][shield-100]][progr_link] | [![Python][py_img]](#)
