@@ -7,8 +7,12 @@
   - 👨‍💻 Taking a few CS50 and freeCodeCamp courses simultaneously.
   - 👨‍🎓 Learning Cybersecurity at WSB in Wrocław, Poland.
 
+---
 
-<br>
+- Working on: [![Visual Studio Code][vsc_img]](#) [![Visual Studio][vs_img]](#) [![Bash][cons_img]](#) [![CMD][cmd_img]](#)
+- Programming with: [![Python][py_img]](#) [![C Sharp][csharp_img]](#) [![C++][cpp_img]](#) [![Unity][unity_img]](#)
+- On operating systems: [![Windows][win_img]](#) [![Linux Ubuntu][ubuntu_img]](#) [![Kali Linux][kali_img]](#)
+>I'm learning fast so other programming languages and environments are just a medium challenge. ;)
 
 ---
 
