@@ -12,6 +12,8 @@
 
 ---
 
+## 🏫 MOOC Courses
+
 ### [![CS50][harvard_25_img]](#) [CS50](CS50.md)
 - [Artificial Intelligence][cs50-ai-packed_link]
 - [Game Development][cs50-g-packed_link]
@@ -24,16 +26,13 @@
 - [Artificial Intelligence][fcc-scicomp-packed_link]
 - [Scientific Computing][fcc-scicomp-packed_link]
 - [Information Security][fcc-infosec-packed_link]
-  
-<br>
-<div align="center" markdown>
+
 
 ## 💻 Projects
-Name | Short Description | Technology
-:--- | :--- | :---:
-[MyICV][my-icv_link] | Interactive CV/Resume; Done for [CS50x][cs50-x-packed_link] as Final Project | [![C++][cpp_img]![Qt][qt_img]](#)
-[SC50Utils][my-cs50utils_link] | Makes repeating tasks in CS50 courses easier | [![Python][py_img]![HTML][html_img]](#)
-[Portfoilo][portfolio_link] | My Portfolio website [link][portfolio_web_link] | [![HTML][html_img]![CSS][css_img]![BootStrap][bs_img]![JavaScript][js_img]](#)
+[Tanks - Game](https://github.com/GrandEchoWhiskey/harvard-cs50-game-projects/tree/main/proj-fp-tanks)
+[My interactive CV](https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/proj-fp-icv)
+[Sorting Algorythm Tester](https://github.com/GrandEchoWhiskey/harvard-cs50-python-projects/tree/main/proj-fp-sorting_algorythm_tester)
+[SC50 Utils](https://github.com/GrandEchoWhiskey/cs50-utils)
   
 </div>
 
@@ -47,12 +46,6 @@ Name | Short Description | Technology
 <!-- freeCodeCamp links -->
 [fcc-scicomp-packed_link]:    https://github.com/GrandEchoWhiskey/fcc-scicomp-boilerplates/blob/main/README.md
 [fcc-infosec-packed_link]:    https://github.com/GrandEchoWhiskey/fcc-infosec-boilerplates/blob/main/README.md
-
-<!-- my links -->
-[my-icv_link]:                https://github.com/GrandEchoWhiskey/my-icv
-[my-cs50utils_link]:          https://github.com/GrandEchoWhiskey/my-cs50utils
-[portfolio_link]:             https://github.com/GrandEchoWhiskey/grandechowhiskey.github.io
-[portfolio_web_link]:         https://grandechowhiskey.github.io
 
 <!-- shields -->
 [portfolio_shield]:           https://img.shields.io/website?style=flat-square&down_color=red&down_message=Offline&label=Portfolio&up_color=green&up_message=Online&url=https%3A%2F%2Fgrandechowhiskey.github.io
