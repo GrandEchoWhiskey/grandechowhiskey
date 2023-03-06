@@ -15,17 +15,17 @@
 ## 🏫 MOOC Courses
 
 ### [![CS50][harvard_25_img]](#) [CS50](CS50.md)
-- [Artificial Intelligence][cs50-ai-packed_link]
-- [Game Development][cs50-g-packed_link]
-- [Web Programming][cs50-w-packed_link]
-- [Computing Science][cs50-x-packed_link]
-- [Python Programming][cs50-p-packed_link]
+- [Artificial Intelligence](https://github.com/GrandEchoWhiskey/harvard-cs50-ai-projects/blob/main/README.md)
+- [Game Development](https://github.com/GrandEchoWhiskey/harvard-cs50-game-projects/blob/main/README.md)
+- [Web Programming](https://github.com/GrandEchoWhiskey/harvard-cs50-web-projects/blob/main/README.md)
+- [Computing Science](https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/blob/main/README.md)
+- [Python Programming](https://github.com/GrandEchoWhiskey/harvard-cs50-python-projects/blob/main/README.md)
 
 
 ### [![fCC][fcc_25_img]](#) [freeCodeCamp](fCC.md)
-- [Artificial Intelligence][fcc-scicomp-packed_link]
-- [Scientific Computing][fcc-scicomp-packed_link]
-- [Information Security][fcc-infosec-packed_link]
+- [Machine Learning](https://github.com/GrandEchoWhiskey/fcc-machine_learning-boilerplates/blob/main/README.md)
+- [Scientific Computing](https://github.com/GrandEchoWhiskey/fcc-scientific_computing-boilerplates/blob/main/README.md)
+- [Information Security](https://github.com/GrandEchoWhiskey/fcc-information_security-boilerplates/blob/main/README.md)
 
 
 ## 💻 Projects
@@ -36,16 +36,6 @@
   
 </div>
 
-<!-- CS50 links -->
-[cs50-ai-packed_link]:        https://github.com/GrandEchoWhiskey/harvard-cs50-ai-projects/blob/main/README.md
-[cs50-x-packed_link]:         https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/blob/main/README.md
-[cs50-g-packed_link]:         https://github.com/GrandEchoWhiskey/harvard-cs50-game-projects/blob/main/README.md
-[cs50-w-packed_link]:         https://github.com/GrandEchoWhiskey/harvard-cs50-web-projects/blob/main/README.md
-[cs50-p-packed_link]:         https://github.com/GrandEchoWhiskey/harvard-cs50-python-projects/blob/main/README.md
-
-<!-- freeCodeCamp links -->
-[fcc-scicomp-packed_link]:    https://github.com/GrandEchoWhiskey/fcc-scicomp-boilerplates/blob/main/README.md
-[fcc-infosec-packed_link]:    https://github.com/GrandEchoWhiskey/fcc-infosec-boilerplates/blob/main/README.md
 
 <!-- shields -->
 [portfolio_shield]:           https://img.shields.io/website?style=flat-square&down_color=red&down_message=Offline&label=Portfolio&up_color=green&up_message=Online&url=https%3A%2F%2Fgrandechowhiskey.github.io
