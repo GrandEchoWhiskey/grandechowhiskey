@@ -12,6 +12,12 @@
 
 ---
 
+## 💻 Projects
+- [Tanks](https://github.com/GrandEchoWhiskey/harvard-cs50-game-projects/tree/main/proj-fp-tanks)
+- [My interactive CV](https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/proj-fp-icv)
+- [Sorting Algorythm Tester](https://github.com/GrandEchoWhiskey/harvard-cs50-python-projects/tree/main/proj-fp-sorting_algorythm_tester)
+- [SC50 Utils](https://github.com/GrandEchoWhiskey/cs50-utils)
+
 ## 🏫 MOOC Courses
   
 ### [![CS50][harvard_25_img]](#) [CS50](CS50.md)
@@ -25,12 +31,6 @@
 - [Machine Learning](https://github.com/GrandEchoWhiskey/fcc-machine_learning-boilerplates/blob/main/README.md)
 - [Scientific Computing](https://github.com/GrandEchoWhiskey/fcc-scientific_computing-boilerplates/blob/main/README.md)
 - [Information Security](https://github.com/GrandEchoWhiskey/fcc-information_security-boilerplates/blob/main/README.md)
-
-## 💻 Projects
-- [Tanks](https://github.com/GrandEchoWhiskey/harvard-cs50-game-projects/tree/main/proj-fp-tanks)
-- [My interactive CV](https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/proj-fp-icv)
-- [Sorting Algorythm Tester](https://github.com/GrandEchoWhiskey/harvard-cs50-python-projects/tree/main/proj-fp-sorting_algorythm_tester)
-- [SC50 Utils](https://github.com/GrandEchoWhiskey/cs50-utils)
   
 </div>
 
