@@ -4,15 +4,16 @@
 # 👋 Hi, I'm Eric.
 
 #### I'm currently:
-  - 👨‍💻 Taking a few CS50 and freeCodeCamp courses simultaneously.
-  - 👨‍🎓 Learning Cybersecurity at WSB in Wrocław, Poland.
+  - 👨‍💻 I am taking several courses simultaneously, mainly from CS50 and freeCodeCamp, as well as a few that do not have practical programming elements.
+  - 👨‍🎓 I am studying cybersecurity at the Wyższa Szkoła Bankowa (School of Banking) in Wroclaw, Poland. These are undergraduate studies. At the same time, I am upskilling with courses on cybersecurity, including cryptography and practical hacking.
+>Note: As an ethical hacker, I only work on networks that I have permission to test. This includes my own network or a network that I have received explicit permission to work on. I always follow best practices to ensure that my testing is conducted in a safe and responsible manner and I prioritize the protection of sensitive information at all times.
 
 ---
 
 - Working on: [![Visual Studio Code][vsc_img]](#) [![Visual Studio][vs_img]](#) [![Bash][cons_img]](#) [![CMD][cmd_img]](#)
 - Programming with: [![Python][py_img]](#) [![C Sharp][csharp_img]](#) [![C++][cpp_img]](#) [![Unity][unity_img]](#)
 - On operating systems: [![Windows][win_img]](#) [![Linux Ubuntu][ubuntu_img]](#) [![Kali Linux][kali_img]](#)
->I'm learning fast so other programming languages and environments are just a medium challenge. ;)
+>Note: I am picking up new programming languages and environments quickly, so they are only presenting a moderate level of challenge for me. ;)
 
 ---
 
