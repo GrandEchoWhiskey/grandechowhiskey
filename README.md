@@ -1,4 +1,4 @@
-[![][portfolio_shield]][portfolio_web_link]
+[![][portfolio_shield]](https://www.grandechowhiskey.github.io)
 [![][status_shield]][status_link]
 
 # 👋 Hi, I'm Eric.
