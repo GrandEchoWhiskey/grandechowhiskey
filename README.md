@@ -29,10 +29,10 @@
 
 
 ## 💻 Projects
-[Tanks - Game](https://github.com/GrandEchoWhiskey/harvard-cs50-game-projects/tree/main/proj-fp-tanks)
-[My interactive CV](https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/proj-fp-icv)
-[Sorting Algorythm Tester](https://github.com/GrandEchoWhiskey/harvard-cs50-python-projects/tree/main/proj-fp-sorting_algorythm_tester)
-[SC50 Utils](https://github.com/GrandEchoWhiskey/cs50-utils)
+- [Tanks - Game](https://github.com/GrandEchoWhiskey/harvard-cs50-game-projects/tree/main/proj-fp-tanks)
+- [My interactive CV](https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/proj-fp-icv)
+- [Sorting Algorythm Tester](https://github.com/GrandEchoWhiskey/harvard-cs50-python-projects/tree/main/proj-fp-sorting_algorythm_tester)
+- [SC50 Utils](https://github.com/GrandEchoWhiskey/cs50-utils)
   
 </div>
 
