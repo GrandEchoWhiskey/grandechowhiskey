@@ -12,12 +12,20 @@
 
 ---
 
+### [![CS50][harvard_25_img]](#) [CS50](CS50.md)
+- [Artificial Intelligence][cs50-ai-packed_link]
+- [Game Development][cs50-g-packed_link]
+- [Web Programming][cs50-w-packed_link]
+- [Computing Science][cs50-x-packed_link]
+- [Python Programming][cs50-p-packed_link]
+
+
+### [![fCC][fcc_25_img]](#) [freeCodeCamp](fCC.md)
+
 <br>
 <div align="center" markdown>
   
 # Massive Open Online Courses
-
-[MOOC Courses](MOOC.md)
 
 ## [![CS50][harvard_25_img]](#) CS50
   
