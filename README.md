@@ -2,10 +2,13 @@
 [![][status_shield]][status_link]
 
 # 👋 Hi, I'm Eric.
+- Python software developer
+- Cybersecurity student
+- Cerified IT specialist
 
-#### I'm currently:
-  - 👨‍💻 I am taking several courses simultaneously, mainly from CS50 and freeCodeCamp, as well as a few that do not have practical programming elements.
-  - 👨‍🎓 I am studying cybersecurity at Wyższa Szkoła Bankowa (School of Banking) in Wroclaw, Poland. These are undergraduate studies. At the same time, I am upskilling with courses on cybersecurity, including cryptography and practical hacking.
+### I am currently:
+  - 👨‍💻 taking several courses simultaneously, mainly from CS50 and freeCodeCamp, as well as a few that do not have practical programming elements.
+  - 👨‍🎓 studying cybersecurity at Wyższa Szkoła Bankowa (School of Banking) in Wroclaw, Poland. These are undergraduate studies. At the same time, I am upskilling with courses on cybersecurity, including cryptography and practical hacking.
 >Note: As an ethical hacker, I only work on networks that I have permission to test. This includes my own network or a network that I have received explicit permission to work on. I always follow best practices to ensure that my testing is conducted in a safe and responsible manner and I prioritize the protection of sensitive information at all times.
 
 ---
@@ -36,7 +39,7 @@
 - [Machine Learning](https://github.com/GrandEchoWhiskey/fcc-machine_learning-boilerplates/blob/main/README.md)
 - [Scientific Computing](https://github.com/GrandEchoWhiskey/fcc-scientific_computing-boilerplates/blob/main/README.md)
 - [Information Security](https://github.com/GrandEchoWhiskey/fcc-information_security-boilerplates/blob/main/README.md)
-  
+
 </div>
 
 
@@ -84,8 +87,7 @@
 [harvard_25_img]:             icons/course/harvard25.png
 [fcc_25_img]:                 icons/course/fcc25.png
 
-
-
+<!-- Shields -->
 [shield-0]: https://img.shields.io/badge/Progress-0%25-darkred?style=flat-square
 [shield-1]: https://img.shields.io/badge/Progress-1%25-darkred?style=flat-square
 [shield-2]: https://img.shields.io/badge/Progress-2%25-darkred?style=flat-square
