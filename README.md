@@ -33,14 +33,14 @@
 
 ## 🏫 MOOC Courses
   
-### [![CS50][harvard_25_img]](#) [CS50](CS50.md)
+### [![CS50][harvard_25_img]](#) CS50
 - [Artificial Intelligence](https://github.com/GrandEchoWhiskey/harvard-cs50-ai-projects/blob/main/README.md)
 - [Game Development](https://github.com/GrandEchoWhiskey/harvard-cs50-game-projects/blob/main/README.md)
 - [Web Programming](https://github.com/GrandEchoWhiskey/harvard-cs50-web-projects/blob/main/README.md) -> comming soon
 - [Computing Science](https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/blob/main/README.md)
 - [Python Programming](https://github.com/GrandEchoWhiskey/harvard-cs50-python-projects/blob/main/README.md)
   
-### [![fCC][fcc_25_img]](#) [freeCodeCamp](fCC.md)
+### [![fCC][fcc_25_img]](#) freeCodeCamp
 - [Machine Learning](https://github.com/GrandEchoWhiskey/fcc-machine_learning-boilerplates/blob/main/README.md)
 - [Scientific Computing](https://github.com/GrandEchoWhiskey/fcc-scientific_computing-boilerplates/blob/main/README.md)
 - [Information Security](https://github.com/GrandEchoWhiskey/fcc-information_security-boilerplates/blob/main/README.md) -> comming soon
