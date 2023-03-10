@@ -6,25 +6,30 @@
 - Cybersecurity student
 - Cerified IT specialist
 
-### I am currently:
+<br>
+
+## I am currently:
   - 👨‍💻 taking several courses simultaneously, mainly from CS50 and freeCodeCamp, as well as a few that do not have practical programming elements.
   - 👨‍🎓 studying cybersecurity at Wyższa Szkoła Bankowa (School of Banking) in Wroclaw, Poland. These are undergraduate studies. At the same time, I am upskilling with courses on cybersecurity, including cryptography and practical hacking.
 >Note: As an ethical hacker, I only work on networks that I have permission to test. This includes my own network or a network that I have received explicit permission to work on. I always follow best practices to ensure that my testing is conducted in a safe and responsible manner and I prioritize the protection of sensitive information at all times.
 
----
+<br>
 
+## My env
 - Writing with: [![Visual Studio Code][vsc_img]](#) [![Visual Studio][vs_img]](#) [![Bash][cons_img]](#) [![CMD][cmd_img]](#)
 - Programming in: [![Python][py_img]](#) [![C Sharp][csharp_img]](#) [![C++][cpp_img]](#) [![Unity][unity_img]](#)
 - Working on: [![Windows][win_img]](#) [![Linux Ubuntu][ubuntu_img]](#) [![Kali Linux][kali_img]](#)
 >Note: I am picking up new programming languages and environments quickly, so they are only presenting a moderate level of challenge for me. ;)
 
----
+<br>
 
 ## 💻 Projects
 - [Tanks](https://github.com/GrandEchoWhiskey/harvard-cs50-game-projects/tree/main/proj-fp-tanks)
 - [My interactive CV](https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/proj-fp-icv)
 - [Sorting Algorythm Tester](https://github.com/GrandEchoWhiskey/harvard-cs50-python-projects/tree/main/proj-fp-sorting_algorythm_tester)
 - [SC50 Utils](https://github.com/GrandEchoWhiskey/cs50-utils)
+
+<br>
 
 ## 🏫 MOOC Courses
   
