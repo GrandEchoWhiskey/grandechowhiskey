@@ -15,7 +15,7 @@
 
 <br>
 
-## My env
+## My environment
 - Writing with: [![Visual Studio Code][vsc_img]](#) [![Visual Studio][vs_img]](#) [![Bash][cons_img]](#) [![CMD][cmd_img]](#)
 - Programming in: [![Python][py_img]](#) [![C Sharp][csharp_img]](#) [![C++][cpp_img]](#) [![Unity][unity_img]](#)
 - Working on: [![Windows][win_img]](#) [![Linux Ubuntu][ubuntu_img]](#) [![Kali Linux][kali_img]](#)
