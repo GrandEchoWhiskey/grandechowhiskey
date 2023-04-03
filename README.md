@@ -10,7 +10,7 @@
 
 ## I am currently:
   - 👨‍💻 taking several courses simultaneously, mainly from CS50 and freeCodeCamp, as well as a few that do not have practical programming elements.
-  - 👨‍🎓 studying cybersecurity at Wyższa Szkoła Bankowa (School of Banking) in Wroclaw, Poland. These are undergraduate studies. At the same time, I am upskilling with courses on cybersecurity, including cryptography and practical hacking.
+  - 👨‍🎓 studying cybersecurity at Universytet WSB Merito (University of Banking) in Wroclaw, Poland. These are undergraduate studies. At the same time, I am upskilling with courses on cybersecurity, including cryptography and practical hacking.
 >Note: As an ethical hacker, I only work on networks that I have permission to test. This includes my own network or a network that I have received explicit permission to work on. I always follow best practices to ensure that my testing is conducted in a safe and responsible manner and I prioritize the protection of sensitive information at all times.
 
 <br>
