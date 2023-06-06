@@ -24,11 +24,11 @@
 <br>
 
 ## 💻 Projects
+- [Keep Password](https://github.com/GrandEchoWhiskey/keep-password) -> Secure way to generate passwords
 - [Tanks](https://github.com/GrandEchoWhiskey/harvard-cs50-game-projects/tree/main/proj-fp-tanks) -> Ready to use tank mechanics in Unity Engine
 - [My interactive CV](https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/proj-fp-icv) -> Effective way to recruit new members
 - [Sorting Algorythm Tester](https://github.com/GrandEchoWhiskey/harvard-cs50-python-projects/tree/main/proj-fp-sorting_algorythm_tester) -> Test your own sorting algorythm
 - [CS50 Utils](https://github.com/GrandEchoWhiskey/cs50-utils) -> New to CS50? Check your grades and download the zip files with one program
-- [Keep Password](https://github.com/GrandEchoWhiskey/keep-password) -> Secure way to generate passwords
 
 <br>
 
