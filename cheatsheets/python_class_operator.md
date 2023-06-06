@@ -22,3 +22,20 @@ Not equal to | p1 != p2 | p1.__ne__(p2)
 Greater than | p1 > p2 | p1.__gt__(p2)
 Greater than or equal to | p1 >= p2 | p1.__ge__(p2)
 
+<br><br>
+
+I Operator | Expression | Internally
+:------- | :--------: | :---------
+I Addition | p1 += p2 | p1.__iadd__(p2)
+I Subtraction | p1 -= p2 | p1.__isub__(p2)
+I Multiplication | p1 *= p2 | p1.__imul__(p2)
+I Power | p1 **= p2 | p1.__ipow__(p2)
+I Division | p1 /= p2 | p1.__itruediv__(p2)
+I Floor Division | p1 //= p2 | p1.__ifloordiv__(p2)
+I Remainder (modulo) | p1 %= p2 | p1.__imod__(p2)
+I Bitwise Left Shift | p1 <<= p2 | p1.__ilshift__(p2)
+I Bitwise Right Shift | p1 >>= p2 | p1.__irshift__(p2)
+I Bitwise AND | p1 &= p2 | p1.__iand__(p2)
+I Bitwise OR | p1 \|= p2 | p1.__ior__(p2)
+I Bitwise XOR | p1 ^= p2 | p1.__ixor__(p2)
+
