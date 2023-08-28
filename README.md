@@ -40,16 +40,16 @@ And some [smaller projects/boilerplates](https://github.com/GrandEchoWhiskey/pyt
 ## 🏫 MOOC Courses
   
 ### [![CS50][harvard_25_img]](#) CS50
-✅ [Artificial Intelligence](https://github.com/GrandEchoWhiskey/harvard-cs50-ai-projects/blob/main/README.md)  <br>
-✅ [Game Development](https://github.com/GrandEchoWhiskey/harvard-cs50-game-projects/blob/main/README.md)  <br>
-🔄 [Web Programming](https://github.com/GrandEchoWhiskey/harvard-cs50-web-projects/blob/main/README.md)  <br>
-✅ [Computing Science](https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/blob/main/README.md)  <br>
-✅ [Python Programming](https://github.com/GrandEchoWhiskey/harvard-cs50-python-projects/blob/main/README.md)  <br>
+✅ [Artificial Intelligence](https://github.com/GrandEchoWhiskey/harvard-cs50-ai-projects/blob/main/README.md) - Artificial intelligence basics, machine learning, and neural networks through practical projects.  <br>
+✅ [Game Development](https://github.com/GrandEchoWhiskey/harvard-cs50-game-projects/blob/main/README.md) - Game design, programming, and interactive experiences through hands-on projects.  <br>
+🔄 [Web Programming](https://github.com/GrandEchoWhiskey/harvard-cs50-web-projects/blob/main/README.md) -  Coding, design, and interactive website creation through hands-on projects.   <br>
+✅ [Computing Science](https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/blob/main/README.md) - Programming fundamentals, problem-solving, and software development through interactive projects.  <br>
+✅ [Python Programming](https://github.com/GrandEchoWhiskey/harvard-cs50-python-projects/blob/main/README.md) - Coding fundamentals, problem-solving, software development, and testing through practical Python projects.  <br>
   
 ### [![fCC][fcc_25_img]](#) freeCodeCamp
-✅ [Machine Learning](https://github.com/GrandEchoWhiskey/fcc-machine_learning-boilerplates/blob/main/README.md)  <br>
-✅ [Scientific Computing](https://github.com/GrandEchoWhiskey/fcc-scientific_computing-boilerplates/blob/main/README.md)  <br>
-🔄 [Information Security](https://github.com/GrandEchoWhiskey/fcc-information_security-boilerplates/blob/main/README.md)  <br>
+✅ [Machine Learning](https://github.com/GrandEchoWhiskey/fcc-machine_learning-boilerplates/blob/main/README.md) - The foundations of machine learning, AI algorithms, and data manipulation through hands-on projects.  <br>
+✅ [Scientific Computing](https://github.com/GrandEchoWhiskey/fcc-scientific_computing-boilerplates/blob/main/README.md) - The essentials of computational analysis, data visualization, and problem-solving through practical projects.  <br>
+🔄 [Information Security](https://github.com/GrandEchoWhiskey/fcc-information_security-boilerplates/blob/main/README.md) - The fundamentals of cybersecurity, risk assessment, and secure communication through hands-on projects.  <br>
 
 </div>
 
