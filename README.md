@@ -2,17 +2,17 @@
 [![](https://img.shields.io/badge/Developer-Junior-darkgreen?style=flat-square)](#)
 [![](https://img.shields.io/badge/Language-Python-blue?style=flat-square)](#)
 [![](https://img.shields.io/badge/Writing-Software-orange?style=flat-square)](#)
-- Python software developer
-- Cybersecurity student
-- Cerified IT specialist
+- 💻 Python software developer
+- 🔐 Cybersecurity student
+- 🔌 Cerified IT specialist
 
 [more...](https://grandechowhiskey.github.io)
 
 <br>
 
 ## I am currently:
-  - 👨‍💻 taking several courses simultaneously, mainly from [`CS50`](https://pll.harvard.edu/catalog) and [`freeCodeCamp`](https://www.freecodecamp.org), as well as a few that do not have practical programming elements.
-  - 👨‍🎓 pursuing undergraduate studies in cybersecurity at [`Uniwersytet WSB Merito`](https://www.merito.pl/wroclaw/) (Merito University) in Wroclaw, Poland. Additionally, I am taking courses in cybersecurity to upskill in areas such as cryptography and practical hacking.
+- 👨‍💻 Taking several courses simultaneously, mainly from [`CS50`](https://pll.harvard.edu/catalog) and [`freeCodeCamp`](https://www.freecodecamp.org), as well as a few that do not have practical programming elements.  <br>
+- 👨‍🎓 Pursuing undergraduate studies in cybersecurity at [`Uniwersytet WSB Merito`](https://www.merito.pl/wroclaw/) (Merito University) in Wroclaw, Poland. Additionally, I am taking courses in cybersecurity to upskill in areas such as cryptography and practical hacking.  <br>
 >Note: As an ethical hacker, I only work on networks that I have permission to test. This includes my own network or a network that I have received explicit permission to work on. I always follow best practices to ensure that my testing is conducted in a safe and responsible manner and I prioritize the protection of sensitive information at all times.
 
 <br>
@@ -28,10 +28,10 @@ Working on | [![Windows][win_img]](#) [![Linux Ubuntu][ubuntu_img]](#) [![Kali L
 <br>
 
 ## 💻 Projects
-- [Tanks](https://github.com/GrandEchoWhiskey/harvard-cs50-game-projects/tree/main/proj-fp-tanks) -> Ready to use tank mechanics in Unity Engine
-- [My interactive CV](https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/proj-fp-icv) -> Effective way to recruit new members
-- [Sorting Algorythm Tester](https://github.com/GrandEchoWhiskey/harvard-cs50-python-projects/tree/main/proj-fp-sorting_algorythm_tester) -> Test your own sorting algorythm
-- [CS50 Utils](https://github.com/GrandEchoWhiskey/cs50-utils) -> New to CS50? Check your grades and download the zip files with one program
+- 🎮 [Tanks](https://github.com/GrandEchoWhiskey/harvard-cs50-game-projects/tree/main/proj-fp-tanks) - Ready to use tank mechanics in Unity Engine  <br>
+- 📄 [My interactive CV](https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/proj-fp-icv) - Effective way to recruit new members  <br>
+- 📈 [Sorting Algorythm Tester](https://github.com/GrandEchoWhiskey/harvard-cs50-python-projects/tree/main/proj-fp-sorting_algorythm_tester) - Test your own sorting algorythm  <br>
+- 🏫 [CS50 Utils](https://github.com/GrandEchoWhiskey/cs50-utils) - New to CS50? Check your grades and download the zip files with one program  <br>
 
 And some [smaller projects/boilerplates](https://github.com/GrandEchoWhiskey/python-projects#readme)
 
