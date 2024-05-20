@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/Language-Python-blue?style=flat-square)](#)
 [![](https://img.shields.io/badge/Writing-Software-orange?style=flat-square)](#)
 - 💻 Python software developer
-- 🔐 Cybersecurity student
+- 🔐 Bachelor's degree in Cybersecurity
 - 🔌 Cerified IT specialist
 
 [more...](https://grandechowhiskey.github.io)
