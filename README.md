@@ -53,6 +53,10 @@ And some [smaller projects/boilerplates](https://github.com/GrandEchoWhiskey/pyt
 
 </div>
 
+## Donates:
+- BTC: bc1qg2fpddsel7997r8z96wc2knvnmzt2jrulj966x
+- ETH: 0x3D342592E4Ee7e8822338FF412C571CE54bdd8dc
+- LTC: ltc1qh6q8evuadl8fpmrt9myupjckxyttpelc5fexrj
 
 <!-- shields -->
 
