@@ -56,9 +56,10 @@ And some [smaller projects/boilerplates](https://github.com/GrandEchoWhiskey/pyt
 </div>
 
 ## Donates
-- BTC: bc1qg2fpddsel7997r8z96wc2knvnmzt2jrulj966x
-- ETH: 0x3D342592E4Ee7e8822338FF412C571CE54bdd8dc
-- LTC: ltc1qh6q8evuadl8fpmrt9myupjckxyttpelc5fexrj
+
+[![](https://img.shields.io/badge/BTC-bc1qg2fpddsel7997r8z96wc2knvnmzt2jrulj966x-orange?style=flat-square)](#)<br>
+[![](https://img.shields.io/badge/ETH-0x3D342592E4Ee7e8822338FF412C571CE54bdd8dc-lightblue?style=flat-square)](#)<br>
+[![](https://img.shields.io/badge/LTC-ltc1qh6q8evuadl8fpmrt9myupjckxyttpelc5fexrj-gray?style=flat-square)](#)
 
 <!-- shields -->
 
