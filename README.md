@@ -1,7 +1,10 @@
 # 👋 Hi, I'm Eric!
-[![](https://img.shields.io/badge/Developer-Junior-darkgreen?style=flat-square)](#)
+[![](https://img.shields.io/badge/Developer-Mid-darkgreen?style=flat-square)](#)
 [![](https://img.shields.io/badge/Language-Python-blue?style=flat-square)](#)
 [![](https://img.shields.io/badge/Writing-Software-orange?style=flat-square)](#)
+
+[![](https://img.shields.io/badge/CyberSec%20Specialist-Mid-orange?style=flat-square)](#)
+
 - 💻 Python software developer
 - 🔐 Bachelor's degree in Cybersecurity
 - 🔌 Cerified IT specialist
