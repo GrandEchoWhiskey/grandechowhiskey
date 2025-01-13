@@ -3,7 +3,9 @@
 [![](https://img.shields.io/badge/Language-Python-blue?style=flat-square)](#)
 [![](https://img.shields.io/badge/Writing-Software-orange?style=flat-square)](#)
 
-[![](https://img.shields.io/badge/CyberSec%20Specialist-Mid-orange?style=flat-square)](#)
+[![](https://img.shields.io/badge/Cybersecurity%20Engineer-Mid-orange?style=flat-square)](#)
+[![](https://img.shields.io/badge/Python%20Developer-Mid-orange?style=flat-square)](#)
+[![](https://img.shields.io/badge/IT%20Helpdesk-Mid|Senior-darkorange?style=flat-square)](#)
 
 - 💻 Python software developer
 - 🔐 Bachelor's degree in Cybersecurity
