@@ -77,7 +77,7 @@ And some [smaller projects/boilerplates](https://github.com/GrandEchoWhiskey/pyt
 [nodejs_img]:                 https://img.icons8.com/fluency/25/node-js.png
 [csharp_img]:                 https://img.icons8.com/fluency/25/c-sharp-logo.png
 [lua_img]:                    https://img.icons8.com/external-tal-revivo-color-tal-revivo/25/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-color-tal-revivo.png
-[unity_img]:                  https://img.icons8.com/ios-filled/25/unity.png
+[unity_img]:                  https://img.icons8.com/color/25/unity.png
 [love_img]:                   icons/programming/love.png
 [dotnet_img]:                 icons/programming/dotnet.png
 [scikit_img]:                 icons/programming/scikit.png
