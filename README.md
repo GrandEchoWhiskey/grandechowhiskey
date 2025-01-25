@@ -91,7 +91,7 @@ And some [smaller projects/boilerplates](https://github.com/GrandEchoWhiskey/pyt
 [virbox_img]:                 icons/tools/vbox.png
 
 <!-- Operating Systems & Distributions -->
-[win_img]:                    https://img.icons8.com/color/25/windows-10.png
+[win_img]:                    https://img.icons8.com/color/25/windows-11.png
 [lin_img]:                    https://img.icons8.com/color/25/linux.png
 [ubuntu_img]:                 https://img.icons8.com/color/25/ubuntu--v1.png
 [kali_img]:                   https://img.icons8.com/color/25/kali-linux.png
