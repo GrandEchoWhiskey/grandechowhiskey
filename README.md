@@ -83,8 +83,8 @@ And some [smaller projects/boilerplates](https://github.com/GrandEchoWhiskey/pyt
 [scikit_img]:                 icons/programming/scikit.png
 
 <!-- Tools & SWs -->
-[vs_img]:                     https://img.icons8.com/color/48/visual-studio-code-2019.png
-[vsc_img]:                    icons/tools/vscode.png
+[vs_img]:                     icons/tools/vsstudio.png
+[vsc_img]:                    https://img.icons8.com/color/25/visual-studio-code-2019.png
 [pyc_img]:                    icons/tools/pycharm.png
 [cons_img]:                   icons/tools/bash.png
 [cmd_img]:                    icons/tools/cmd.png
