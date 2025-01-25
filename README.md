@@ -75,7 +75,7 @@ And some [smaller projects/boilerplates](https://github.com/GrandEchoWhiskey/pyt
 [bs_img]:                     icons/programming/bs.png
 [sql_img]:                    icons/programming/sql.png
 [nodejs_img]:                 icons/programming/nodejs.png
-[csharp_img]:                 icons/programming/csharp.png
+[csharp_img]:                 https://img.icons8.com/fluency/25/c-sharp-logo.png
 [lua_img]:                    icons/programming/lua.png
 [unity_img]:                  icons/programming/unity.png
 [love_img]:                   icons/programming/love.png
