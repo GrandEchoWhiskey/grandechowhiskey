@@ -67,8 +67,8 @@ And some [smaller projects/boilerplates](https://github.com/GrandEchoWhiskey/pyt
 [py_img]:                     https://img.icons8.com/color/25/python--v1.png
 [tf_img]:                     https://img.icons8.com/color/25/tensorflow.png
 [cpp_img]:                    https://img.icons8.com/color/25/c-plus-plus-logo.png
-[qt_img]:                     icons/programming/qt.png
-[c_img]:                      icons/programming/c.png
+[qt_img]:                     https://img.icons8.com/ios-filled/50/qt.png
+[c_img]:                      https://img.icons8.com/color/25/c-programming.png
 [html_img]:                   icons/programming/html.png
 [css_img]:                    icons/programming/css.png
 [js_img]:                     icons/programming/js.png
