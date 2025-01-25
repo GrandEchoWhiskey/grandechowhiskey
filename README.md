@@ -64,9 +64,9 @@ And some [smaller projects/boilerplates](https://github.com/GrandEchoWhiskey/pyt
 <!-- shields -->
 
 <!-- Programming Languages & Frameworks -->
-[py_img]:                     icons/programming/python.png
-[tf_img]:                     icons/programming/tensorflow.png
-[cpp_img]:                    icons/programming/cpp.png
+[py_img]:                     https://img.icons8.com/color/25/python--v1.png
+[tf_img]:                     https://img.icons8.com/color/25/tensorflow.png
+[cpp_img]:                    https://img.icons8.com/color/25/c-plus-plus-logo.png
 [qt_img]:                     icons/programming/qt.png
 [c_img]:                      icons/programming/c.png
 [html_img]:                   icons/programming/html.png
