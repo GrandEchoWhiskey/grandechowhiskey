@@ -1,12 +1,5 @@
 # Hi, I'm Eric!
-### Python Data Engeneer
-
-[![](https://img.shields.io/badge/Data%20Engeneer-Junior%20|%20Mid-darkyellow?style=flat-square)](#)
-[![](https://img.shields.io/badge/Python%20Developer-Mid-orange?style=flat-square)](#)
-
-- 💻 Python data engeneer
-
-[more...](https://grandechowhiskey.github.io)
+### 💻 Python Data Engeneer
 
 <br>
 
