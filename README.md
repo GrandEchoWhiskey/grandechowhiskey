@@ -1,12 +1,22 @@
-# Hi, I'm Eric!
-### 💻 Python Data Scientist
+# Eric | GrandEchoWhiskey
+Hello! I'm Eric, a passionate Python Data Scientist based in Poland. I specialize in data analysis, machine learning, and developing efficient software solutions for real-world problems.
 
-<br>
+With experience in a wide range of technologies, from Python and C++ to Unity and Power BI, I focus on delivering clean, well-documented code and meaningful insights from data. My background also includes expertise in cybersecurity, network administration, and DevOps.
 
-## I am currently:
-- 👨‍💻 Taking several courses simultaneously, mainly from [`CS50`](https://pll.harvard.edu/catalog) and [`freeCodeCamp`](https://www.freecodecamp.org), as well as a few that do not have practical programming elements.  <br>
-- 👨‍🎓 Pursuing undergraduate studies in cybersecurity at [`Uniwersytet WSB Merito`](https://www.merito.pl/wroclaw/) (Merito University) in Wroclaw, Poland.
-<br>
+### 🔭 What I’m working on:
+- Analyzing F1 racing data using Python and Power BI.
+- Exploring machine learning techniques for various projects.
+- Developing interactive CVs and game development projects in Unity.
+
+### 🌱 I’m currently learning:
+- Advanced data analysis and machine learning algorithms.
+- Cloud computing and expanding my skills with Google Cloud Platform.
+- Further improving my C++ skills and integrating them with Python for performance optimization.
+
+### 📫 How to reach me:
+- LinkedIn: Eric Wolf
+- GitHub: GrandEchoWhiskey
+- Website: grandechowhiskey.github.io
 
 ## My environment
 &nbsp; | &nbsp;
@@ -15,18 +25,6 @@ Writing in | [![Visual Studio Code][vsc_img]](#) [![Visual Studio][vs_img]](#) [
 Programming with | [![Python][py_img]](#) [![C Sharp][csharp_img]](#) [![C++][cpp_img]](#)
 Working on | [![Windows][win_img]](#) [![Linux Ubuntu][ubuntu_img]](#) [![Kali Linux][kali_img]](#)
 >Note: I am picking up new programming languages and environments quickly, so they are only presenting a moderate level of challenge for me. ;)
-
-<br>
-
-## 💻 Projects
-- 🎮 [Tanks](https://github.com/GrandEchoWhiskey/harvard-cs50-game-projects/tree/main/proj-fp-tanks) - Ready to use tank mechanics in Unity Engine  <br>
-- 📄 [My interactive CV](https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/tree/main/proj-fp-icv) - Effective way to recruit new members  <br>
-- 📈 [Sorting Algorythm Tester](https://github.com/GrandEchoWhiskey/harvard-cs50-python-projects/tree/main/proj-fp-sorting_algorythm_tester) - Test your own sorting algorythm  <br>
-- 🏫 [CS50 Utils](https://github.com/GrandEchoWhiskey/cs50-utils) - New to CS50? Check your grades and download the zip files with one program  <br>
-
-And some [smaller projects/boilerplates](https://github.com/GrandEchoWhiskey/python-projects#readme)
-
-</div>
 
 <!-- shields -->
 
