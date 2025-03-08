@@ -1,5 +1,5 @@
 # Hi, I'm Eric!
-### 💻 Python Data Engeneer
+### 💻 Python Data Scientist
 
 <br>
 
