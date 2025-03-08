@@ -14,8 +14,8 @@ With experience in a wide range of technologies, from Python and C++ to Unity an
 - Further improving my C++ skills and integrating them with Python for performance optimization.
 
 ### 📫 How to reach me:
-- LinkedIn: Eric Wolf
-- GitHub: GrandEchoWhiskey
+- LinkedIn: [Eric Wolf](https://www.linkedin.com/in/eric-wolf-064874238/)
+- GitHub: [GrandEchoWhiskey](https://github.com/GrandEchoWhiskey)
 - Website: grandechowhiskey.github.io
 
 
