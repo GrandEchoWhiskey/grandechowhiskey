@@ -5,9 +5,7 @@
 
 ## I am currently:
 - 👨‍💻 Taking several courses simultaneously, mainly from [`CS50`](https://pll.harvard.edu/catalog) and [`freeCodeCamp`](https://www.freecodecamp.org), as well as a few that do not have practical programming elements.  <br>
-- 👨‍🎓 Pursuing undergraduate studies in cybersecurity at [`Uniwersytet WSB Merito`](https://www.merito.pl/wroclaw/) (Merito University) in Wroclaw, Poland. Additionally, I am taking courses in cybersecurity to upskill in areas such as cryptography and practical hacking.  <br>
->Note: As an ethical hacker, I only work on networks that I have permission to test. This includes my own network or a network that I have received explicit permission to work on. I always follow best practices to ensure that my testing is conducted in a safe and responsible manner and I prioritize the protection of sensitive information at all times.
-
+- 👨‍🎓 Pursuing undergraduate studies in cybersecurity at [`Uniwersytet WSB Merito`](https://www.merito.pl/wroclaw/) (Merito University) in Wroclaw, Poland.
 <br>
 
 ## My environment
