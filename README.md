@@ -18,13 +18,6 @@ With experience in a wide range of technologies, from Python and C++ to Unity an
 - GitHub: GrandEchoWhiskey
 - Website: grandechowhiskey.github.io
 
-## My environment
-&nbsp; | &nbsp;
-:--- | :---
-Writing in | [![Visual Studio Code][vsc_img]](#) [![Visual Studio][vs_img]](#) [![Bash][cons_img]](#) [![CMD][cmd_img]](#) [![Unity][unity_img]](#)
-Programming with | [![Python][py_img]](#) [![C Sharp][csharp_img]](#) [![C++][cpp_img]](#)
-Working on | [![Windows][win_img]](#) [![Linux Ubuntu][ubuntu_img]](#) [![Kali Linux][kali_img]](#)
->Note: I am picking up new programming languages and environments quickly, so they are only presenting a moderate level of challenge for me. ;)
 
 <!-- shields -->
 
