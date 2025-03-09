@@ -1,4 +1,4 @@
-# $${\color{lightblue}Eric}$$<br>$${\color{gray}GrandEchoWhiskey}$$
+# $${\color{lightblue}Eric \space Wolf}$$<br>$${\color{gray}GrandEchoWhiskey}$$
 Hello! I'm Eric, a passionate Python Data Scientist based in Poland. I specialize in data analysis, machine learning, and developing efficient software solutions for real-world problems.
 
 With experience in a wide range of technologies, from Python and C++ to Unity and Power BI, I focus on delivering clean, well-documented code and meaningful insights from data. My background also includes expertise in cybersecurity, network administration, and DevOps.
